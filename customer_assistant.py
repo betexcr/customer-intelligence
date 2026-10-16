@@ -303,6 +303,7 @@ TOOL_FUNCTIONS = {
     "get_product_complaint_themes": get_product_complaint_themes,
     "get_product_risk_analysis": get_product_risk_analysis,
     "compare_products": compare_products,
+    "search_customer_feedback": search_feedback
 }
 
 TOOLS = [
