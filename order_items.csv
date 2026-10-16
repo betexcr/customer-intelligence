@@ -1,0 +1,504 @@
+order_item_id,order_id,order_date,customer_id,sales_rep,region,sales_channel,product_name,product_category,quantity,unit_price,discount_pct,unit_cost,payment_method,returned,product_id,line_subtotal,discount_amount,line_total,line_cost
+OI-00001,ORD-00001,2025-11-24,CUST-0044,Ethan Brown,Central,Online,Monitor,Electronics,1,289.76,0.0,225.99,Cash,False,PROD-006,289.76,0.0,289.76,225.99
+OI-00002,ORD-00002,2025-02-17,CUST-0045,Sofia Kim,West,Online,Mouse,Accessories,3,33.29,0.05,24.52,Cash,False,PROD-007,99.87,0.05,99.82,73.56
+OI-00003,ORD-00003,2025-01-04,CUST-0022,Ava Chen,North,Retail,Keyboard,Accessories,2,79.02,0.0,57.6,Credit Card,False,PROD-004,158.04,0.0,158.04,115.2
+OI-00004,ORD-00004,2025-06-26,CUST-0060,Liam Johnson,North,Wholesale,Pen Set,Office Supplies,1,11.5,0.05,6.42,Bank Transfer,False,PROD-009,11.5,0.01,11.49,6.42
+OI-00005,ORD-00005,2025-11-13,CUST-0019,Ava Chen,South,Online,Standing Desk,Furniture,4,534.05,0.0,293.18,Cash,False,PROD-010,2136.2,0.0,2136.2,1172.72
+OI-00006,ORD-00006,2025-11-22,CUST-0044,Ethan Brown,North,Wholesale,Standing Desk,Furniture,2,486.61,0.1,362.19,PayPal,False,PROD-010,973.22,0.97,972.25,724.38
+OI-00007,ORD-00007,2025-05-06,CUST-0015,Ethan Brown,East,Online,Keyboard,Accessories,1,75.13,0.15,51.95,PayPal,False,PROD-004,75.13,0.11,75.02,51.95
+OI-00008,ORD-00008,2025-06-11,CUST-0021,Noah Patel,West,Retail,Headphones,Electronics,1,139.04,0.15,108.08,Cash,False,PROD-003,139.04,0.21,138.83,108.08
+OI-00009,ORD-00009,2025-03-13,CUST-0038,Liam Johnson,East,Online,Mouse,Accessories,3,37.24,0.1,21.7,PayPal,False,PROD-007,111.72,0.11,111.61,65.1
+OI-00010,ORD-00010,2025-02-16,CUST-0039,Ava Chen,West,Retail,Laptop,Electronics,1,1307.33,0.0,828.64,Cash,False,PROD-005,1307.33,0.0,1307.33,828.64
+OI-00011,ORD-00011,2025-10-11,CUST-0050,Ethan Brown,East,Online,Laptop,Electronics,1,1259.59,0.15,852.29,Bank Transfer,False,PROD-005,1259.59,1.89,1257.7,852.29
+OI-00012,ORD-00012,2025-08-21,CUST-0012,Sofia Kim,North,Wholesale,Laptop,Electronics,5,1331.81,0.0,768.2,Bank Transfer,False,PROD-005,6659.05,0.0,6659.05,3841.0
+OI-00013,ORD-00013,2025-09-17,CUST-0060,Sofia Kim,North,Wholesale,Pen Set,Office Supplies,2,11.33,0.0,9.2,Bank Transfer,False,PROD-009,22.66,0.0,22.66,18.4
+OI-00014,ORD-00014,2025-02-27,CUST-0057,Sofia Kim,North,Online,Standing Desk,Furniture,5,568.53,0.0,268.43,Cash,False,PROD-010,2842.65,0.0,2842.65,1342.15
+OI-00015,ORD-00015,2025-09-30,CUST-0056,Sofia Kim,West,Online,Keyboard,Accessories,2,69.62,0.05,43.07,PayPal,False,PROD-004,139.24,0.07,139.17,86.14
+OI-00016,ORD-00016,2025-07-24,CUST-0015,Ava Chen,East,Online,USB-C Hub,Accessories,2,57.36,0.05,29.36,PayPal,False,PROD-011,114.72,0.06,114.66,58.72
+OI-00017,ORD-00017,2025-01-04,CUST-0022,Ava Chen,Central,Online,Monitor,Electronics,1,337.83,0.0,162.81,Bank Transfer,False,PROD-006,337.83,0.0,337.83,162.81
+OI-00018,ORD-00018,2025-04-20,CUST-0051,,West,Online,Notebook,Office Supplies,8,6.04,0.05,4.11,Credit Card,False,PROD-008,48.32,0.02,48.3,32.88
+OI-00019,ORD-00019,2025-08-09,CUST-0042,Ava Chen,North,Retail,Standing Desk,Furniture,2,516.46,0.1,358.04,Bank Transfer,False,PROD-010,1032.92,1.03,1031.89,716.08
+OI-00020,ORD-00020,2025-02-25,CUST-0030,Noah Patel,North,Retail,Mouse,Accessories,3,32.98,0.0,19.3,Credit Card,False,PROD-007,98.94,0.0,98.94,57.9
+OI-00021,ORD-00021,2025-10-04,CUST-0032,Liam Johnson,South,Retail,Laptop,Electronics,8,1335.82,0.15,655.88,Credit Card,False,PROD-005,10686.56,16.03,10670.53,5247.04
+OI-00022,ORD-00022,2025-01-02,CUST-0047,Sofia Kim,West,Online,Headphones,Electronics,4,138.96,0.05,89.67,PayPal,False,PROD-003,555.84,0.28,555.56,358.68
+OI-00023,ORD-00023,2025-01-30,CUST-0031,Sofia Kim,Central,Online,Pen Set,Office Supplies,1,12.74,0.0,6.17,Credit Card,True,PROD-009,12.74,0.0,12.74,6.17
+OI-00024,ORD-00024,2025-02-11,CUST-0057,Sofia Kim,South,Wholesale,Keyboard,Accessories,1,68.63,0.15,45.98,Credit Card,False,PROD-004,68.63,0.1,68.53,45.98
+OI-00025,ORD-00025,2025-08-03,CUST-0046,Mia Garcia,South,Retail,USB-C Hub,Accessories,3,56.56,0.15,30.65,Cash,False,PROD-011,169.68,0.25,169.43,91.95
+OI-00026,ORD-00026,2025-11-27,CUST-0040,Sofia Kim,North,Online,Desk Chair,Furniture,8,240.14,0.15,120.63,PayPal,False,PROD-001,1921.12,2.88,1918.24,965.04
+OI-00027,ORD-00027,2025-03-09,CUST-0054,Sofia Kim,East,Wholesale,Standing Desk,Furniture,5,568.77,0.0,282.97,Credit Card,False,PROD-010,2843.85,0.0,2843.85,1414.85
+OI-00028,ORD-00028,2025-10-11,CUST-0057,Ava Chen,Central,Online,Desk Chair,Furniture,1,265.2,0.15,137.77,Bank Transfer,False,PROD-001,265.2,0.4,264.8,137.77
+OI-00029,ORD-00029,2025-04-18,CUST-0017,Ava Chen,North,Wholesale,Desk Lamp,Furniture,3,46.82,0.15,30.79,Cash,False,PROD-002,140.46,0.21,140.25,92.37
+OI-00030,ORD-00030,2025-01-23,CUST-0029,Sofia Kim,West,Wholesale,Laptop,Electronics,1,1168.06,0.2,654.29,Credit Card,False,PROD-005,1168.06,2.34,1165.72,654.29
+OI-00031,ORD-00031,2025-12-20,CUST-0009,Ava Chen,East,Retail,Keyboard,Accessories,5,76.5,0.05,40.61,Credit Card,False,PROD-004,382.5,0.19,382.31,203.05
+OI-00032,ORD-00032,2025-04-18,CUST-0027,Sofia Kim,South,Online,USB-C Hub,Accessories,1,52.52,0.1,41.12,PayPal,True,PROD-011,52.52,0.05,52.47,41.12
+OI-00033,ORD-00033,2025-04-01,CUST-0052,Ethan Brown,South,Retail,Headphones,Electronics,4,131.29,0.0,110.29,PayPal,False,PROD-003,525.16,0.0,525.16,441.16
+OI-00034,ORD-00034,2025-02-25,CUST-0030,Mia Garcia,East,Online,Headphones,Electronics,5,158.32,0.0,105.65,PayPal,False,PROD-003,791.6,0.0,791.6,528.25
+OI-00035,ORD-00035,2025-04-09,CUST-0042,Sofia Kim,West,Wholesale,Headphones,Electronics,5,140.97,0.2,83.83,Bank Transfer,False,PROD-003,704.85,1.41,703.44,419.15
+OI-00036,ORD-00036,2025-03-01,CUST-0028,Mia Garcia,East,Retail,Desk Chair,Furniture,10,225.43,0.0,127.28,Credit Card,False,PROD-001,2254.3,0.0,2254.3,1272.8
+OI-00037,ORD-00037,2025-10-23,CUST-0035,Ethan Brown,South,Retail,Mouse,Accessories,4,33.46,0.0,26.57,Cash,False,PROD-007,133.84,0.0,133.84,106.28
+OI-00038,ORD-00038,2025-12-07,CUST-0033,Mia Garcia,West,Retail,Standing Desk,Furniture,3,539.29,0.0,391.05,Cash,False,PROD-010,1617.87,0.0,1617.87,1173.15
+OI-00039,ORD-00039,2025-10-11,CUST-0012,Sofia Kim,,Retail,Keyboard,Accessories,3,70.67,0.0,53.21,Cash,False,PROD-004,212.01,0.0,212.01,159.63
+OI-00040,ORD-00040,2025-01-01,CUST-0030,Liam Johnson,West,Wholesale,Desk Chair,Furniture,2,231.15,0.05,164.0,PayPal,False,PROD-001,462.3,0.23,462.07,328.0
+OI-00041,ORD-00041,2025-03-28,CUST-0053,Noah Patel,East,Online,USB-C Hub,Accessories,2,50.53,0.05,32.66,PayPal,False,PROD-011,101.06,0.05,101.01,65.32
+OI-00042,ORD-00042,2025-01-24,CUST-0057,Ethan Brown,Central,Online,Mouse,Accessories,3,39.08,0.1,21.96,Cash,False,PROD-007,117.24,0.12,117.12,65.88
+OI-00043,ORD-00043,2025-05-05,CUST-0007,Liam Johnson,South,Online,Keyboard,Accessories,1,78.32,0.1,53.67,Cash,False,PROD-004,78.32,0.08,78.24,53.67
+OI-00044,ORD-00044,2025-05-08,CUST-0039,Mia Garcia,West,Wholesale,Monitor,Electronics,4,320.13,0.1,248.52,Cash,False,PROD-006,1280.52,1.28,1279.24,994.08
+OI-00045,ORD-00045,2025-10-08,CUST-0016,Ethan Brown,East,Wholesale,Webcam,Electronics,4,98.76,0.05,51.53,Cash,False,PROD-012,395.04,0.2,394.84,206.12
+OI-00046,ORD-00046,2025-05-21,CUST-0035,Ava Chen,South,Online,Webcam,Electronics,2,82.53,0.0,53.06,PayPal,False,PROD-012,165.06,0.0,165.06,106.12
+OI-00047,ORD-00047,2025-03-20,CUST-0004,Noah Patel,West,Retail,Desk Lamp,Furniture,2,45.46,0.0,30.26,Credit Card,False,PROD-002,90.92,0.0,90.92,60.52
+OI-00048,ORD-00048,2025-10-22,CUST-0058,Liam Johnson,Central,Wholesale,Headphones,Electronics,8,145.72,0.0,88.33,PayPal,False,PROD-003,1165.76,0.0,1165.76,706.64
+OI-00049,ORD-00049,2025-05-20,CUST-0047,Noah Patel,West,Online,Headphones,Electronics,2,145.99,0.1,104.9,Credit Card,False,PROD-003,291.98,0.29,291.69,209.8
+OI-00050,ORD-00050,2025-10-31,CUST-0012,Ava Chen,East,Retail,Pen Set,Office Supplies,1,12.55,0.0,8.91,Bank Transfer,False,PROD-009,12.55,0.0,12.55,8.91
+OI-00051,ORD-00051,2025-06-17,CUST-0017,Ava Chen,West,Online,Standing Desk,Furniture,2,555.08,0.1,381.13,Credit Card,True,PROD-010,1110.16,1.11,1109.05,762.26
+OI-00052,ORD-00052,2025-06-29,CUST-0016,Noah Patel,North,Wholesale,Mouse,Accessories,4,36.51,0.1,24.89,PayPal,False,PROD-007,146.04,0.15,145.89,99.56
+OI-00053,ORD-00053,2025-08-31,CUST-0024,Noah Patel,Central,Wholesale,USB-C Hub,Accessories,8,50.88,0.05,31.45,Credit Card,False,PROD-011,407.04,0.2,406.84,251.6
+OI-00054,ORD-00054,2025-03-25,CUST-0025,Liam Johnson,South,Online,Desk Chair,Furniture,1,221.71,0.0,165.52,PayPal,False,PROD-001,221.71,0.0,221.71,165.52
+OI-00055,ORD-00055,2025-06-04,CUST-0023,Sofia Kim,West,Wholesale,USB-C Hub,Accessories,1,56.76,0.2,39.55,Bank Transfer,False,PROD-011,56.76,0.11,56.65,39.55
+OI-00056,ORD-00056,2025-11-28,CUST-0024,Ethan Brown,West,Wholesale,Standing Desk,Furniture,2,469.45,0.05,323.12,PayPal,False,PROD-010,938.9,0.47,938.43,646.24
+OI-00057,ORD-00057,2025-09-25,CUST-0028,Ethan Brown,Central,Retail,USB-C Hub,Accessories,4,52.77,0.05,34.95,Bank Transfer,False,PROD-011,211.08,0.11,210.97,139.8
+OI-00058,ORD-00058,2025-02-14,CUST-0025,Mia Garcia,North,Retail,Desk Chair,Furniture,1,262.55,0.05,161.01,Bank Transfer,False,PROD-001,262.55,0.13,262.42,161.01
+OI-00059,ORD-00059,2025-04-19,CUST-0018,Sofia Kim,North,Wholesale,Standing Desk,Furniture,2,559.27,0.15,362.09,PayPal,False,PROD-010,1118.54,1.68,1116.86,724.18
+OI-00060,ORD-00060,2025-07-28,CUST-0029,Ava Chen,North,Retail,Webcam,Electronics,1,91.99,0.05,62.94,PayPal,False,PROD-012,91.99,0.05,91.94,62.94
+OI-00061,ORD-00061,2025-05-05,CUST-0048,Sofia Kim,East,Retail,Desk Chair,Furniture,2,251.06,0.05,143.1,Cash,False,PROD-001,502.12,0.25,501.87,286.2
+OI-00062,ORD-00062,2025-05-09,CUST-0049,Ethan Brown,South,Online,Mouse,Accessories,1,32.43,0.0,22.75,PayPal,False,PROD-007,32.43,0.0,32.43,22.75
+OI-00063,ORD-00063,2025-05-22,CUST-0054,Noah Patel,East,Online,Desk Lamp,Furniture,4,49.43,0.05,37.18,Bank Transfer,False,PROD-002,197.72,0.1,197.62,148.72
+OI-00064,ORD-00064,2025-01-08,CUST-0045,Noah Patel,West,Online,Desk Lamp,Furniture,1,48.84,,31.44,Credit Card,False,PROD-002,48.84,,,31.44
+OI-00065,ORD-00065,2025-08-29,CUST-0031,Ava Chen,North,Retail,Webcam,Electronics,1,89.72,0.0,68.71,Cash,False,PROD-012,89.72,0.0,89.72,68.71
+OI-00066,ORD-00066,2025-11-19,CUST-0016,Ava Chen,Central,Retail,USB-C Hub,Accessories,1,50.15,0.05,32.18,PayPal,False,PROD-011,50.15,0.03,50.12,32.18
+OI-00067,ORD-00067,2025-07-14,CUST-0037,Sofia Kim,North,Wholesale,Webcam,Electronics,2,98.99,0.05,55.81,Credit Card,True,PROD-012,197.98,0.1,197.88,111.62
+OI-00068,ORD-00068,2025-04-17,CUST-0005,Noah Patel,North,Retail,USB-C Hub,Accessories,3,52.05,0.0,30.18,Cash,False,PROD-011,156.15,0.0,156.15,90.54
+OI-00069,ORD-00069,2025-08-29,CUST-0005,Ethan Brown,South,Retail,Desk Chair,Furniture,2,217.72,0.0,177.77,PayPal,False,PROD-001,435.44,0.0,435.44,355.54
+OI-00070,ORD-00070,2025-10-06,CUST-0011,Mia Garcia,Central,Wholesale,Mouse,Accessories,8,36.49,0.1,18.2,Bank Transfer,False,PROD-007,291.92,0.29,291.63,145.6
+OI-00071,ORD-00071,2025-08-28,CUST-0029,Ava Chen,Central,Online,Desk Lamp,Furniture,2,46.41,0.0,31.26,Cash,False,PROD-002,92.82,0.0,92.82,62.52
+OI-00072,ORD-00072,2025-11-06,CUST-0038,Ava Chen,East,Wholesale,Desk Chair,Furniture,1,217.37,0.1,177.83,Credit Card,False,PROD-001,217.37,0.22,217.15,177.83
+OI-00073,ORD-00073,2025-03-31,CUST-0028,Ethan Brown,West,Online,Webcam,Electronics,2,91.28,0.0,70.12,Cash,False,PROD-012,182.56,0.0,182.56,140.24
+OI-00074,ORD-00074,2025-06-20,CUST-0019,Ethan Brown,West,Wholesale,Standing Desk,Furniture,5,544.66,0.0,361.0,Credit Card,False,PROD-010,2723.3,0.0,2723.3,1805.0
+OI-00075,ORD-00075,2025-06-11,CUST-0001,Ethan Brown,Central,Retail,Desk Chair,Furniture,10,233.07,0.0,154.58,Cash,False,PROD-001,2330.7,0.0,2330.7,1545.8
+OI-00076,ORD-00076,2025-09-23,CUST-0018,Sofia Kim,South,Retail,Standing Desk,Furniture,2,539.23,0.0,267.51,Cash,False,PROD-010,1078.46,0.0,1078.46,535.02
+OI-00077,ORD-00077,2025-09-06,CUST-0020,Sofia Kim,North,Wholesale,Monitor,Electronics,3,290.03,0.1,223.6,Cash,False,PROD-006,870.09,0.87,869.22,670.8
+OI-00078,ORD-00078,2025-02-28,CUST-0019,Sofia Kim,East,Retail,Webcam,Electronics,3,99.75,0.0,68.5,Cash,True,PROD-012,299.25,0.0,299.25,205.5
+OI-00079,ORD-00079,2025-05-05,CUST-0057,Noah Patel,North,Retail,Webcam,Electronics,2,91.92,0.15,57.81,Cash,False,PROD-012,183.84,0.28,183.56,115.62
+OI-00080,ORD-00080,2025-09-17,CUST-0043,Liam Johnson,South,Retail,Desk Chair,Furniture,2,259.33,0.0,159.44,Cash,False,PROD-001,518.66,0.0,518.66,318.88
+OI-00081,ORD-00081,2025-10-10,CUST-0016,Sofia Kim,West,Online,Notebook,Office Supplies,8,6.39,0.15,5.04,Cash,False,PROD-008,51.12,0.08,51.04,40.32
+OI-00082,ORD-00082,2025-08-31,CUST-0042,Noah Patel,West,Online,Desk Lamp,Furniture,2,52.85,0.2,34.65,PayPal,False,PROD-002,105.7,0.21,105.49,69.3
+OI-00083,ORD-00083,2025-10-30,CUST-0030,Ava Chen,South,Retail,Standing Desk,Furniture,5,567.49,0.0,336.58,PayPal,False,PROD-010,2837.45,0.0,2837.45,1682.9
+OI-00084,ORD-00084,2025-05-16,CUST-0044,Sofia Kim,West,Retail,Standing Desk,Furniture,2,539.3,0.0,307.84,Cash,False,PROD-010,1078.6,0.0,1078.6,615.68
+OI-00085,ORD-00085,2025-01-19,CUST-0048,Ava Chen,West,Online,Pen Set,Office Supplies,3,10.98,0.15,9.35,Credit Card,False,PROD-009,32.94,0.05,32.89,28.05
+OI-00086,ORD-00086,2025-12-22,CUST-0024,Liam Johnson,South,Online,Desk Chair,Furniture,1,263.7,0.1,139.71,Cash,False,PROD-001,263.7,0.26,263.44,139.71
+OI-00087,ORD-00087,2025-04-03,CUST-0032,Sofia Kim,South,Online,Keyboard,Accessories,3,70.39,0.0,51.85,Cash,False,PROD-004,211.17,0.0,211.17,155.55
+OI-00088,ORD-00088,2025-08-24,CUST-0035,Noah Patel,North,Retail,Desk Chair,Furniture,5,251.21,0.05,139.33,Bank Transfer,True,PROD-001,1256.05,0.63,1255.42,696.65
+OI-00089,ORD-00089,2025-06-03,CUST-0025,Liam Johnson,North,Online,USB-C Hub,Accessories,3,61.14,0.05,32.15,Cash,False,PROD-011,183.42,0.09,183.33,96.45
+OI-00090,ORD-00090,2025-10-22,CUST-0018,Ava Chen,Central,Wholesale,Desk Chair,Furniture,2,268.41,0.2,164.23,Credit Card,False,PROD-001,536.82,1.07,535.75,328.46
+OI-00091,ORD-00091,2025-09-12,CUST-0013,Sofia Kim,East,Wholesale,Desk Chair,Furniture,1,256.96,0.1,134.72,PayPal,False,PROD-001,256.96,0.26,256.7,134.72
+OI-00092,ORD-00092,2025-11-18,CUST-0009,Ava Chen,East,Retail,USB-C Hub,Accessories,4,49.98,0.0,33.12,Cash,False,PROD-011,199.92,0.0,199.92,132.48
+OI-00093,ORD-00093,2025-03-09,CUST-0011,,West,Retail,Notebook,Office Supplies,2,7.1,0.05,3.75,Bank Transfer,False,PROD-008,14.2,0.01,14.19,7.5
+OI-00094,ORD-00094,2025-08-28,CUST-0026,Sofia Kim,East,Online,Monitor,Electronics,10,297.91,0.15,224.89,Cash,False,PROD-006,2979.1,4.47,2974.63,2248.9
+OI-00095,ORD-00095,2025-10-02,CUST-0053,Ethan Brown,East,Online,Monitor,Electronics,3,320.02,0.1,212.38,PayPal,False,PROD-006,960.06,0.96,959.1,637.14
+OI-00096,ORD-00096,2025-11-14,CUST-0030,Ethan Brown,East,Wholesale,Notebook,Office Supplies,3,6.32,0.05,4.41,Cash,False,PROD-008,18.96,0.01,18.95,13.23
+OI-00097,ORD-00097,2025-01-24,CUST-0009,Liam Johnson,West,Retail,Laptop,Electronics,2,1160.35,0.0,898.12,Cash,False,PROD-005,2320.7,0.0,2320.7,1796.24
+OI-00098,ORD-00098,2025-03-21,CUST-0018,Ava Chen,East,Online,Headphones,Electronics,5,151.39,0.05,110.63,Cash,False,PROD-003,756.95,0.38,756.57,553.15
+OI-00099,ORD-00099,2025-05-01,CUST-0023,Ava Chen,West,Retail,Standing Desk,Furniture,3,479.37,0.05,402.37,PayPal,True,PROD-010,1438.11,0.72,1437.39,1207.11
+OI-00100,ORD-00100,2025-08-21,CUST-0051,Mia Garcia,South,Online,Monitor,Electronics,3,334.66,0.05,161.91,PayPal,False,PROD-006,1003.98,0.5,1003.48,485.73
+OI-00101,ORD-00101,2025-10-11,CUST-0051,Sofia Kim,North,Retail,Mouse,Accessories,4,36.02,0.0,25.09,PayPal,True,PROD-007,144.08,0.0,144.08,100.36
+OI-00102,ORD-00102,2025-10-04,CUST-0023,Noah Patel,Central,Retail,Desk Chair,Furniture,1,258.16,0.15,128.86,Credit Card,False,PROD-001,258.16,0.39,257.77,128.86
+OI-00103,ORD-00103,2025-01-27,CUST-0050,Mia Garcia,Central,Wholesale,Keyboard,Accessories,3,79.74,0.1,47.5,Credit Card,False,PROD-004,239.22,0.24,238.98,142.5
+OI-00104,ORD-00104,2025-04-24,CUST-0030,Ethan Brown,North,Online,Pen Set,Office Supplies,4,10.91,0.15,7.75,Cash,False,PROD-009,43.64,0.07,43.57,31.0
+OI-00105,ORD-00105,2025-08-07,CUST-0021,Sofia Kim,South,Online,USB-C Hub,Accessories,4,50.81,0.0,41.35,PayPal,False,PROD-011,203.24,0.0,203.24,165.4
+OI-00106,ORD-00106,2025-11-21,CUST-0030,Sofia Kim,Central,Retail,Pen Set,Office Supplies,2,12.25,0.2,7.78,Credit Card,False,PROD-009,24.5,0.05,24.45,15.56
+OI-00107,ORD-00107,2025-02-28,CUST-0029,Noah Patel,West,Retail,USB-C Hub,Accessories,4,57.38,0.1,30.81,Cash,False,PROD-011,229.52,0.23,229.29,123.24
+OI-00108,ORD-00108,2025-02-18,CUST-0060,Liam Johnson,North,Online,Standing Desk,Furniture,3,516.82,0.0,282.22,Credit Card,False,PROD-010,1550.46,0.0,1550.46,846.66
+OI-00109,ORD-00109,2025-02-19,CUST-0036,Sofia Kim,East,Wholesale,Desk Lamp,Furniture,4,51.0,0.05,31.88,Credit Card,False,PROD-002,204.0,0.1,203.9,127.52
+OI-00110,ORD-00110,2025-12-07,CUST-0023,Ava Chen,Central,Wholesale,Headphones,Electronics,4,158.19,0.2,96.88,PayPal,False,PROD-003,632.76,1.27,631.49,387.52
+OI-00111,ORD-00111,2025-09-04,CUST-0018,Sofia Kim,South,Retail,Mouse,Accessories,2,38.02,0.05,18.63,Credit Card,False,PROD-007,76.04,0.04,76.0,37.26
+OI-00112,ORD-00112,2025-12-03,CUST-0022,Mia Garcia,North,Online,Desk Lamp,Furniture,1,46.02,0.1,28.15,PayPal,False,PROD-002,46.02,0.05,45.97,28.15
+OI-00113,ORD-00113,2025-07-25,CUST-0014,Liam Johnson,West,Retail,Monitor,Electronics,3,297.99,0.0,226.85,Bank Transfer,False,PROD-006,893.97,0.0,893.97,680.55
+OI-00114,ORD-00114,2025-06-09,CUST-0010,Noah Patel,Central,Online,Desk Lamp,Furniture,8,46.63,0.05,35.87,Credit Card,False,PROD-002,373.04,0.19,372.85,286.96
+OI-00115,ORD-00115,2025-12-05,CUST-0008,Mia Garcia,West,Online,Headphones,Electronics,2,145.99,0.0,103.15,Bank Transfer,False,PROD-003,291.98,0.0,291.98,206.3
+OI-00116,ORD-00116,2025-10-31,CUST-0004,Ava Chen,South,Retail,Webcam,Electronics,2,91.43,0.0,69.81,PayPal,False,PROD-012,182.86,0.0,182.86,139.62
+OI-00117,ORD-00117,2025-05-11,CUST-0025,Sofia Kim,South,Wholesale,Desk Chair,Furniture,1,233.32,0.1,131.81,Bank Transfer,False,PROD-001,233.32,0.23,233.09,131.81
+OI-00118,ORD-00118,2025-01-22,CUST-0037,Liam Johnson,West,Retail,Headphones,Electronics,8,131.1,0.15,95.88,Credit Card,False,PROD-003,1048.8,1.57,1047.23,767.04
+OI-00119,ORD-00119,2025-06-16,CUST-0006,Liam Johnson,North,Online,Keyboard,Accessories,3,80.72,0.15,56.82,Cash,False,PROD-004,242.16,0.36,241.8,170.46
+OI-00120,ORD-00120,2025-09-26,CUST-0011,Ava Chen,Central,Wholesale,Monitor,Electronics,2,315.86,0.0,189.84,Credit Card,False,PROD-006,631.72,0.0,631.72,379.68
+OI-00121,ORD-00121,2025-04-10,,Noah Patel,East,Online,Standing Desk,Furniture,10,508.17,0.05,281.5,PayPal,False,PROD-010,5081.7,2.54,5079.16,2815.0
+OI-00122,ORD-00122,2025-12-02,CUST-0049,Sofia Kim,West,Wholesale,Monitor,Electronics,4,300.47,0.05,227.6,Bank Transfer,False,PROD-006,1201.88,0.6,1201.28,910.4
+OI-00123,ORD-00123,2025-11-18,CUST-0018,Sofia Kim,North,Retail,Standing Desk,Furniture,1,485.27,0.0,304.09,Credit Card,False,PROD-010,485.27,0.0,485.27,304.09
+OI-00124,ORD-00124,2025-08-20,CUST-0055,Ava Chen,Central,Wholesale,Laptop,Electronics,5,1095.02,0.0,890.39,Cash,False,PROD-005,5475.1,0.0,5475.1,4451.95
+OI-00125,ORD-00125,2025-10-11,CUST-0021,Sofia Kim,West,Wholesale,Desk Lamp,Furniture,2,52.66,0.1,32.76,PayPal,True,PROD-002,105.32,0.11,105.21,65.52
+OI-00126,ORD-00126,2025-08-19,CUST-0042,Noah Patel,North,Online,Monitor,Electronics,5,345.09,0.2,167.56,Cash,True,PROD-006,1725.45,3.45,1722.0,837.8
+OI-00127,ORD-00127,2025-09-26,CUST-0050,Mia Garcia,Central,Online,Notebook,Office Supplies,2,6.72,0.15,3.96,Bank Transfer,False,PROD-008,13.44,0.02,13.42,7.92
+OI-00128,ORD-00128,2025-02-18,CUST-0059,Sofia Kim,South,Retail,Notebook,Office Supplies,2,6.82,0.1,4.44,Credit Card,False,PROD-008,13.64,0.01,13.63,8.88
+OI-00129,ORD-00129,2025-03-14,CUST-0046,Ava Chen,East,Wholesale,Standing Desk,Furniture,3,503.49,0.1,278.78,Cash,False,PROD-010,1510.47,1.51,1508.96,836.34
+OI-00130,ORD-00130,2025-06-18,CUST-0034,Ava Chen,West,Wholesale,Keyboard,Accessories,5,78.56,0.1,51.89,Bank Transfer,False,PROD-004,392.8,0.39,392.41,259.45
+OI-00131,ORD-00131,2025-06-08,CUST-0009,Noah Patel,North,Retail,Keyboard,Accessories,2,83.19,0.1,41.53,Credit Card,False,PROD-004,166.38,0.17,166.21,83.06
+OI-00132,ORD-00132,2025-10-04,CUST-0009,Sofia Kim,West,Online,Desk Lamp,Furniture,1,52.53,0.0,34.3,PayPal,False,PROD-002,52.53,0.0,52.53,34.3
+OI-00133,ORD-00133,2025-12-21,CUST-0044,Ethan Brown,South,Retail,Pen Set,Office Supplies,1,12.94,0.0,7.38,Bank Transfer,False,PROD-009,12.94,0.0,12.94,7.38
+OI-00134,ORD-00134,2025-08-18,CUST-0054,Noah Patel,East,Wholesale,Mouse,Accessories,2,35.61,0.1,22.1,Cash,False,PROD-007,71.22,0.07,71.15,44.2
+OI-00135,ORD-00135,2025-05-25,CUST-0039,Noah Patel,East,Online,Headphones,Electronics,2,146.54,0.0,80.61,Cash,False,PROD-003,293.08,0.0,293.08,161.22
+OI-00136,ORD-00136,2025-10-11,CUST-0011,Mia Garcia,West,Wholesale,Monitor,Electronics,2,338.08,0.0,167.52,PayPal,False,PROD-006,676.16,0.0,676.16,335.04
+OI-00137,ORD-00137,2025-02-16,CUST-0026,Sofia Kim,East,Online,Mouse,Accessories,5,37.79,0.15,21.57,Cash,True,PROD-007,188.95,0.28,188.67,107.85
+OI-00138,ORD-00138,2025-07-11,CUST-0051,Noah Patel,South,Online,Mouse,Accessories,8,31.72,0.15,23.87,Bank Transfer,False,PROD-007,253.76,0.38,253.38,190.96
+OI-00139,ORD-00139,2025-08-30,CUST-0058,Ava Chen,North,Retail,Desk Lamp,Furniture,4,51.98,0.05,32.27,PayPal,False,PROD-002,207.92,0.1,207.82,129.08
+OI-00140,ORD-00140,2025-10-08,CUST-0008,Ava Chen,South,Retail,Desk Lamp,Furniture,2,49.63,0.1,27.19,Cash,False,PROD-002,99.26,0.1,99.16,54.38
+OI-00141,ORD-00141,2025-09-13,CUST-0019,Liam Johnson,North,Wholesale,Pen Set,Office Supplies,3,12.22,0.05,8.41,Bank Transfer,False,PROD-009,36.66,0.02,36.64,25.23
+OI-00142,ORD-00142,2025-08-02,CUST-0034,Sofia Kim,Central,Wholesale,Keyboard,Accessories,1,78.46,0.2,38.92,Credit Card,False,PROD-004,78.46,0.16,78.3,38.92
+OI-00143,ORD-00143,2025-08-29,CUST-0051,Ava Chen,East,Online,Laptop,Electronics,15,1247.82,0.0,605.46,Credit Card,False,PROD-005,18717.3,0.0,18717.3,9081.9
+OI-00144,ORD-00144,2025-06-20,CUST-0050,Ethan Brown,West,Wholesale,Keyboard,Accessories,3,68.23,0.1,41.18,Cash,False,PROD-004,204.69,0.2,204.49,123.54
+OI-00145,ORD-00145,2025-03-11,CUST-0051,Noah Patel,North,Retail,Monitor,Electronics,8,338.41,0.0,178.06,Bank Transfer,False,PROD-006,2707.28,0.0,2707.28,1424.48
+OI-00146,ORD-00146,2025-10-06,CUST-0050,Ava Chen,East,Retail,Webcam,Electronics,4,86.02,0.0,54.0,Credit Card,False,PROD-012,344.08,0.0,344.08,216.0
+OI-00147,ORD-00147,2025-08-12,CUST-0032,Ethan Brown,West,Retail,Headphones,Electronics,5,154.21,0.0,112.03,Bank Transfer,False,PROD-003,771.05,0.0,771.05,560.15
+OI-00148,ORD-00148,2025-08-06,CUST-0007,Ava Chen,East,Wholesale,Monitor,Electronics,15,318.31,0.0,186.32,Bank Transfer,False,PROD-006,4774.65,0.0,4774.65,2794.8
+OI-00149,ORD-00149,2025-11-05,CUST-0056,Mia Garcia,Central,Retail,Desk Lamp,Furniture,3,47.7,0.0,24.57,Bank Transfer,False,PROD-002,143.1,0.0,143.1,73.71
+OI-00150,ORD-00150,2025-01-30,CUST-0011,Ava Chen,South,Wholesale,Monitor,Electronics,2,335.25,0.05,227.19,Cash,False,PROD-006,670.5,0.34,670.16,454.38
+OI-00151,ORD-00151,2025-02-04,CUST-0039,Noah Patel,West,Retail,Mouse,Accessories,2,37.49,0.0,23.06,Bank Transfer,False,PROD-007,74.98,0.0,74.98,46.12
+OI-00152,ORD-00152,2025-02-09,CUST-0008,Ava Chen,South,Retail,Pen Set,Office Supplies,2,11.16,0.0,6.94,Cash,False,PROD-009,22.32,0.0,22.32,13.88
+OI-00153,ORD-00153,2025-03-02,CUST-0045,Liam Johnson,South,Online,Desk Chair,Furniture,4,256.92,0.0,161.12,PayPal,False,PROD-001,1027.68,0.0,1027.68,644.48
+OI-00154,ORD-00154,2025-08-20,CUST-0055,Mia Garcia,East,Wholesale,Keyboard,Accessories,2,82.33,0.0,51.82,Credit Card,False,PROD-004,164.66,0.0,164.66,103.64
+OI-00155,ORD-00155,2025-05-29,CUST-0051,Mia Garcia,Central,Online,Desk Chair,Furniture,4,260.95,0.15,162.85,Credit Card,True,PROD-001,1043.8,1.57,1042.23,651.4
+OI-00156,ORD-00156,2025-03-13,CUST-0052,Sofia Kim,South,Wholesale,Mouse,Accessories,1,37.59,0.05,21.12,Credit Card,False,PROD-007,37.59,0.02,37.57,21.12
+OI-00157,ORD-00157,2025-07-23,CUST-0005,Noah Patel,East,Wholesale,Desk Lamp,Furniture,3,50.79,0.1,35.07,Credit Card,False,PROD-002,152.37,0.15,152.22,105.21
+OI-00158,ORD-00158,2025-12-15,CUST-0012,Noah Patel,West,Wholesale,Notebook,Office Supplies,5,6.34,0.1,4.41,Credit Card,False,PROD-008,31.7,0.03,31.67,22.05
+OI-00159,ORD-00159,2025-09-23,CUST-0034,Mia Garcia,North,Retail,Keyboard,Accessories,1,72.52,0.15,42.23,PayPal,False,PROD-004,72.52,0.11,72.41,42.23
+OI-00160,ORD-00160,2025-10-10,CUST-0011,Sofia Kim,Central,Online,Desk Chair,Furniture,2,222.61,0.05,153.77,PayPal,False,PROD-001,445.22,0.22,445.0,307.54
+OI-00161,ORD-00161,2025-11-06,CUST-0003,Ethan Brown,Central,Retail,Standing Desk,Furniture,3,564.39,0.1,264.13,PayPal,False,PROD-010,1693.17,1.69,1691.48,792.39
+OI-00162,ORD-00162,2025-08-02,CUST-0020,Liam Johnson,South,Wholesale,Pen Set,Office Supplies,2,12.49,0.05,6.97,Cash,False,PROD-009,24.98,0.01,24.97,13.94
+OI-00163,ORD-00163,2025-02-07,CUST-0039,Noah Patel,East,Wholesale,Desk Lamp,Furniture,2,43.83,0.05,26.74,Bank Transfer,False,PROD-002,87.66,0.04,87.62,53.48
+OI-00164,ORD-00164,2025-06-26,CUST-0030,Ava Chen,East,Retail,Headphones,Electronics,2,134.67,0.05,85.46,PayPal,False,PROD-003,269.34,0.13,269.21,170.92
+OI-00165,ORD-00165,2025-01-26,CUST-0058,Noah Patel,East,Wholesale,Desk Chair,Furniture,5,265.92,0.0,184.69,Bank Transfer,False,PROD-001,1329.6,0.0,1329.6,923.45
+OI-00166,ORD-00166,2025-03-23,CUST-0006,Liam Johnson,Central,Retail,Webcam,Electronics,2,100.72,0.15,57.53,PayPal,False,PROD-012,201.44,0.3,201.14,115.06
+OI-00167,ORD-00167,2025-06-30,CUST-0031,Mia Garcia,Central,Online,Laptop,Electronics,2,1093.34,0.15,819.83,Credit Card,False,PROD-005,2186.68,3.28,2183.4,1639.66
+OI-00168,ORD-00168,2025-05-16,CUST-0036,Noah Patel,East,Wholesale,Desk Lamp,Furniture,2,47.06,0.0,24.69,Bank Transfer,False,PROD-002,94.12,0.0,94.12,49.38
+OI-00169,ORD-00169,2025-09-16,CUST-0008,Noah Patel,North,Retail,Webcam,Electronics,1,96.14,0.2,62.15,Bank Transfer,False,PROD-012,96.14,0.19,95.95,62.15
+OI-00170,ORD-00170,2025-06-23,CUST-0033,Ava Chen,North,Online,Notebook,Office Supplies,4,7.19,0.0,4.18,PayPal,False,PROD-008,28.76,0.0,28.76,16.72
+OI-00171,ORD-00171,2025-08-31,CUST-0040,Mia Garcia,South,Retail,Notebook,Office Supplies,3,6.5,0.05,3.85,Bank Transfer,False,PROD-008,19.5,0.01,19.49,11.55
+OI-00172,ORD-00172,2025-09-17,CUST-0024,Mia Garcia,,Retail,Notebook,Office Supplies,4,6.61,0.0,4.73,Bank Transfer,False,PROD-008,26.44,0.0,26.44,18.92
+OI-00173,ORD-00173,2025-12-19,CUST-0050,Sofia Kim,Central,Online,USB-C Hub,Accessories,2,49.82,0.2,39.56,Credit Card,False,PROD-011,99.64,0.2,99.44,79.12
+OI-00174,ORD-00174,2025-03-29,CUST-0044,Noah Patel,North,Wholesale,Notebook,Office Supplies,3,6.75,0.15,3.52,Credit Card,False,PROD-008,20.25,0.03,20.22,10.56
+OI-00175,ORD-00175,2025-08-14,CUST-0040,Liam Johnson,North,Wholesale,Standing Desk,Furniture,2,515.91,0.0,333.06,PayPal,False,PROD-010,1031.82,0.0,1031.82,666.12
+OI-00176,ORD-00176,2025-10-15,CUST-0030,Sofia Kim,East,Wholesale,Standing Desk,Furniture,2,582.19,0.0,399.29,Bank Transfer,False,PROD-010,1164.38,0.0,1164.38,798.58
+OI-00177,ORD-00177,2025-12-15,CUST-0018,Sofia Kim,East,Online,USB-C Hub,Accessories,1,59.22,0.05,42.24,Bank Transfer,False,PROD-011,59.22,0.03,59.19,42.24
+OI-00178,ORD-00178,2025-12-27,CUST-0060,Ethan Brown,East,Retail,Mouse,Accessories,2,36.81,0.05,22.99,Credit Card,False,PROD-007,73.62,0.04,73.58,45.98
+OI-00179,ORD-00179,2025-10-06,CUST-0010,Mia Garcia,North,Retail,Headphones,Electronics,2,159.07,0.0,103.89,Credit Card,False,PROD-003,318.14,0.0,318.14,207.78
+OI-00180,ORD-00180,2025-08-15,CUST-0060,Sofia Kim,East,Online,USB-C Hub,Accessories,2,52.6,0.0,35.79,Credit Card,False,PROD-011,105.2,0.0,105.2,71.58
+OI-00181,ORD-00181,2025-10-28,CUST-0004,Ava Chen,West,Retail,Mouse,Accessories,3,33.37,0.05,23.75,Cash,False,PROD-007,100.11,0.05,100.06,71.25
+OI-00182,ORD-00182,2025-03-12,CUST-0057,Liam Johnson,West,Wholesale,Laptop,Electronics,10,1334.63,0.0,819.37,PayPal,False,PROD-005,13346.3,0.0,13346.3,8193.7
+OI-00183,ORD-00183,2025-05-28,CUST-0015,Sofia Kim,North,Online,Standing Desk,Furniture,1,500.65,0.1,354.97,Cash,False,PROD-010,500.65,0.5,500.15,354.97
+OI-00184,ORD-00184,2025-04-01,CUST-0056,Mia Garcia,North,Online,Laptop,Electronics,2,1343.25,0.05,914.7,Bank Transfer,False,PROD-005,2686.5,1.34,2685.16,1829.4
+OI-00185,ORD-00185,2025-02-24,CUST-0009,Sofia Kim,West,Retail,Standing Desk,Furniture,15,500.55,0.05,331.91,PayPal,False,PROD-010,7508.25,3.75,7504.5,4978.65
+OI-00186,ORD-00186,2025-06-19,CUST-0022,Mia Garcia,Central,Wholesale,Keyboard,Accessories,3,79.56,0.1,37.8,PayPal,False,PROD-004,238.68,0.24,238.44,113.4
+OI-00187,ORD-00187,2025-11-24,CUST-0012,Noah Patel,West,Retail,Headphones,Electronics,2,156.88,0.0,99.67,PayPal,False,PROD-003,313.76,0.0,313.76,199.34
+OI-00188,ORD-00188,2025-07-16,CUST-0037,Ava Chen,East,Wholesale,Mouse,Accessories,1,34.94,0.0,23.21,Bank Transfer,False,PROD-007,34.94,0.0,34.94,23.21
+OI-00189,ORD-00189,2025-02-01,CUST-0058,Ethan Brown,East,Wholesale,USB-C Hub,Accessories,2,50.93,0.0,35.24,Credit Card,False,PROD-011,101.86,0.0,101.86,70.48
+OI-00190,ORD-00190,2025-06-01,CUST-0048,Sofia Kim,East,Retail,Standing Desk,Furniture,1,538.31,0.0,282.3,Cash,False,PROD-010,538.31,0.0,538.31,282.3
+OI-00191,ORD-00191,2025-12-07,CUST-0034,Liam Johnson,Central,Wholesale,Mouse,Accessories,3,37.37,0.05,25.22,Bank Transfer,False,PROD-007,112.11,0.06,112.05,75.66
+OI-00192,ORD-00192,2025-10-16,CUST-0010,Noah Patel,East,Wholesale,Monitor,Electronics,3,292.35,0.05,211.31,Cash,False,PROD-006,877.05,0.44,876.61,633.93
+OI-00193,ORD-00193,2025-04-16,CUST-0030,Noah Patel,Central,Retail,Desk Lamp,Furniture,1,49.36,0.05,34.87,Cash,False,PROD-002,49.36,0.02,49.34,34.87
+OI-00194,ORD-00194,2025-10-14,CUST-0001,Ethan Brown,South,Wholesale,Webcam,Electronics,2,94.32,0.0,51.41,Credit Card,False,PROD-012,188.64,0.0,188.64,102.82
+OI-00195,ORD-00195,2025-06-26,CUST-0060,Liam Johnson,North,Retail,Desk Lamp,Furniture,15,43.87,0.15,24.93,Cash,False,PROD-002,658.05,0.99,657.06,373.95
+OI-00196,ORD-00196,2025-03-11,CUST-0025,Liam Johnson,West,Retail,USB-C Hub,Accessories,3,61.34,0.0,42.79,Credit Card,False,PROD-011,184.02,0.0,184.02,128.37
+OI-00197,ORD-00197,2025-12-05,CUST-0026,Sofia Kim,South,Wholesale,Notebook,Office Supplies,5,6.04,0.0,5.06,PayPal,False,PROD-008,30.2,0.0,30.2,25.3
+OI-00198,ORD-00198,2025-01-12,CUST-0015,Noah Patel,West,Retail,Desk Chair,Furniture,4,240.45,0.0,145.49,PayPal,False,PROD-001,961.8,0.0,961.8,581.96
+OI-00199,ORD-00199,2025-02-27,CUST-0002,Noah Patel,South,Online,Laptop,Electronics,2,1293.7,0.1,896.94,Credit Card,False,PROD-005,2587.4,2.59,2584.81,1793.88
+OI-00200,ORD-00200,2025-08-17,CUST-0029,Noah Patel,Central,Online,Pen Set,Office Supplies,5,12.57,0.0,6.15,Credit Card,False,PROD-009,62.85,0.0,62.85,30.75
+OI-00201,ORD-00201,2025-05-29,CUST-0044,Mia Garcia,South,Retail,Mouse,Accessories,4,37.78,0.0,23.36,PayPal,True,PROD-007,151.12,0.0,151.12,93.44
+OI-00202,ORD-00202,2025-09-24,CUST-0048,Noah Patel,West,Wholesale,Mouse,Accessories,1,34.68,0.05,23.3,Cash,False,PROD-007,34.68,0.02,34.66,23.3
+OI-00203,ORD-00203,2025-06-26,CUST-0010,Mia Garcia,West,Online,USB-C Hub,Accessories,4,57.62,0.0,33.91,Cash,False,PROD-011,230.48,0.0,230.48,135.64
+OI-00204,ORD-00204,2025-04-26,CUST-0027,Liam Johnson,Central,Wholesale,Desk Chair,Furniture,1,261.28,0.05,123.87,PayPal,False,PROD-001,261.28,0.13,261.15,123.87
+OI-00205,ORD-00205,2025-05-11,CUST-0035,Ethan Brown,South,Online,Mouse,Accessories,1,34.04,0.0,21.14,Bank Transfer,False,PROD-007,34.04,0.0,34.04,21.14
+OI-00206,ORD-00206,2025-11-06,CUST-0043,Sofia Kim,South,Retail,Pen Set,Office Supplies,1,10.9,0.1,7.97,PayPal,False,PROD-009,10.9,0.01,10.89,7.97
+OI-00207,ORD-00207,2025-06-20,CUST-0008,Ethan Brown,West,Online,Desk Chair,Furniture,1,266.53,0.15,184.65,PayPal,False,PROD-001,266.53,0.4,266.13,184.65
+OI-00208,ORD-00208,2025-05-03,CUST-0020,Mia Garcia,East,Wholesale,Notebook,Office Supplies,2,6.31,0.05,4.43,Cash,False,PROD-008,12.62,0.01,12.61,8.86
+OI-00209,ORD-00209,2025-08-29,CUST-0015,Ethan Brown,South,Online,Standing Desk,Furniture,2,572.6,0.0,341.9,Bank Transfer,False,PROD-010,1145.2,0.0,1145.2,683.8
+OI-00210,ORD-00210,2025-10-27,CUST-0037,Noah Patel,West,Wholesale,Pen Set,Office Supplies,2,12.7,0.0,6.77,Bank Transfer,False,PROD-009,25.4,0.0,25.4,13.54
+OI-00211,ORD-00211,2025-09-08,CUST-0011,Noah Patel,Central,Retail,Desk Lamp,Furniture,2,49.98,0.0,34.68,PayPal,False,PROD-002,99.96,0.0,99.96,69.36
+OI-00212,ORD-00212,2025-10-05,CUST-0053,Ethan Brown,North,Online,USB-C Hub,Accessories,3,61.08,0.15,28.64,Cash,False,PROD-011,183.24,0.27,182.97,85.92
+OI-00213,ORD-00213,2025-11-19,CUST-0004,Sofia Kim,Central,Retail,Mouse,Accessories,1,32.02,0.0,21.97,Cash,False,PROD-007,32.02,0.0,32.02,21.97
+OI-00214,ORD-00214,2025-09-30,CUST-0019,Ava Chen,Central,Wholesale,Notebook,Office Supplies,1,6.44,0.1,4.23,Cash,False,PROD-008,6.44,0.01,6.43,4.23
+OI-00215,ORD-00215,2025-04-02,CUST-0017,Mia Garcia,East,Retail,Monitor,Electronics,3,352.63,0.0,215.53,Credit Card,False,PROD-006,1057.89,0.0,1057.89,646.59
+OI-00216,ORD-00216,2025-07-27,CUST-0055,Ava Chen,North,Online,Webcam,Electronics,15,92.19,0.0,62.24,Cash,False,PROD-012,1382.85,0.0,1382.85,933.6
+OI-00217,ORD-00217,2025-10-10,CUST-0028,Ethan Brown,East,Wholesale,Webcam,Electronics,1,82.11,0.0,57.6,Credit Card,False,PROD-012,82.11,0.0,82.11,57.6
+OI-00218,ORD-00218,2025-01-22,CUST-0003,Ava Chen,East,Wholesale,Mouse,Accessories,5,33.13,0.15,22.16,Credit Card,False,PROD-007,165.65,0.25,165.4,110.8
+OI-00219,ORD-00219,2025-06-11,CUST-0026,Ava Chen,East,Online,Laptop,Electronics,3,1333.83,0.1,839.47,PayPal,False,PROD-005,4001.49,4.0,3997.49,2518.41
+OI-00220,ORD-00220,2025-07-19,CUST-0045,Ethan Brown,North,Wholesale,USB-C Hub,Accessories,2,60.35,0.1,29.66,Bank Transfer,False,PROD-011,120.7,0.12,120.58,59.32
+OI-00221,ORD-00221,2025-08-12,CUST-0026,Mia Garcia,North,Wholesale,Mouse,Accessories,2,37.96,0.1,26.86,Bank Transfer,False,PROD-007,75.92,0.08,75.84,53.72
+OI-00222,ORD-00222,2025-08-19,CUST-0038,Ethan Brown,West,Online,Webcam,Electronics,3,85.52,0.0,49.68,Bank Transfer,False,PROD-012,256.56,0.0,256.56,149.04
+OI-00223,ORD-00223,2025-02-07,CUST-0025,Mia Garcia,East,Online,Monitor,Electronics,2,306.87,0.1,173.82,Credit Card,False,PROD-006,613.74,0.61,613.13,347.64
+OI-00224,ORD-00224,2025-06-07,CUST-0029,Sofia Kim,Central,Wholesale,Webcam,Electronics,1,88.13,0.0,49.72,Cash,False,PROD-012,88.13,0.0,88.13,49.72
+OI-00225,ORD-00225,2025-02-15,CUST-0001,Mia Garcia,West,Retail,Standing Desk,Furniture,3,531.4,0.1,385.76,Credit Card,False,PROD-010,1594.2,1.59,1592.61,1157.28
+OI-00226,ORD-00226,2025-10-14,CUST-0020,Mia Garcia,West,Online,Mouse,Accessories,1,35.9,0.0,18.86,Credit Card,False,PROD-007,35.9,0.0,35.9,18.86
+OI-00227,ORD-00227,2025-05-22,CUST-0047,Ethan Brown,West,Wholesale,Headphones,Electronics,4,140.06,0.0,110.84,PayPal,False,PROD-003,560.24,0.0,560.24,443.36
+OI-00228,ORD-00228,2025-03-11,CUST-0056,Mia Garcia,West,Retail,Desk Chair,Furniture,2,216.36,0.15,145.53,Cash,False,PROD-001,432.72,0.65,432.07,291.06
+OI-00229,ORD-00229,2025-11-30,CUST-0021,Noah Patel,West,Retail,Pen Set,Office Supplies,2,11.16,0.15,6.67,Bank Transfer,False,PROD-009,22.32,0.03,22.29,13.34
+OI-00230,ORD-00230,2025-11-21,CUST-0051,Liam Johnson,East,Online,Webcam,Electronics,4,100.16,0.0,52.06,PayPal,False,PROD-012,400.64,0.0,400.64,208.24
+OI-00231,ORD-00231,2025-10-07,CUST-0046,Noah Patel,West,Retail,Keyboard,Accessories,3,78.75,0.2,47.19,Credit Card,False,PROD-004,236.25,0.47,235.78,141.57
+OI-00232,ORD-00232,2025-07-29,CUST-0046,Liam Johnson,West,Online,USB-C Hub,Accessories,3,55.54,0.0,37.64,Cash,True,PROD-011,166.62,0.0,166.62,112.92
+OI-00233,ORD-00233,2025-09-03,CUST-0035,Ava Chen,East,Wholesale,Pen Set,Office Supplies,2,11.86,0.15,8.32,Credit Card,False,PROD-009,23.72,0.04,23.68,16.64
+OI-00234,ORD-00234,2025-05-08,CUST-0042,Ethan Brown,West,Retail,USB-C Hub,Accessories,1,57.54,0.05,36.17,Cash,False,PROD-011,57.54,0.03,57.51,36.17
+OI-00235,ORD-00235,2025-02-20,CUST-0015,Liam Johnson,East,Retail,Desk Chair,Furniture,4,227.72,0.05,166.21,Cash,False,PROD-001,910.88,0.46,910.42,664.84
+OI-00236,ORD-00236,2025-10-29,CUST-0027,Ava Chen,North,Wholesale,Desk Lamp,Furniture,2,48.48,0.0,25.41,PayPal,False,PROD-002,96.96,0.0,96.96,50.82
+OI-00237,ORD-00237,2025-06-25,CUST-0047,Ethan Brown,West,Retail,Webcam,Electronics,3,96.53,0.0,47.46,Credit Card,False,PROD-012,289.59,0.0,289.59,142.38
+OI-00238,ORD-00238,2025-12-30,CUST-0060,Ethan Brown,South,Wholesale,Monitor,Electronics,2,289.59,0.0,231.68,PayPal,False,PROD-006,579.18,0.0,579.18,463.36
+OI-00239,ORD-00239,2025-06-19,CUST-0012,Ethan Brown,West,Retail,Notebook,Office Supplies,2,6.46,0.1,4.4,Credit Card,False,PROD-008,12.92,0.01,12.91,8.8
+OI-00240,ORD-00240,2025-04-12,CUST-0049,Ethan Brown,North,Wholesale,Webcam,Electronics,2,92.73,0.1,50.19,Credit Card,False,PROD-012,185.46,0.19,185.27,100.38
+OI-00241,ORD-00241,2025-10-02,CUST-0032,Sofia Kim,East,Wholesale,Keyboard,Accessories,1,73.54,0.0,51.58,Cash,False,PROD-004,73.54,0.0,73.54,51.58
+OI-00242,ORD-00242,2025-10-28,CUST-0046,Mia Garcia,Central,Wholesale,Monitor,Electronics,5,312.49,0.05,232.91,Credit Card,False,PROD-006,1562.45,0.78,1561.67,1164.55
+OI-00243,ORD-00243,2025-06-10,CUST-0025,Liam Johnson,Central,Online,Monitor,Electronics,1,304.8,0.0,172.67,Cash,False,PROD-006,304.8,0.0,304.8,172.67
+OI-00244,ORD-00244,2025-09-07,CUST-0011,Liam Johnson,East,Online,USB-C Hub,Accessories,8,56.0,0.15,30.17,PayPal,False,PROD-011,448.0,0.67,447.33,241.36
+OI-00245,ORD-00245,2025-08-19,CUST-0053,,Central,Wholesale,Pen Set,Office Supplies,2,10.94,0.0,6.46,Cash,False,PROD-009,21.88,0.0,21.88,12.92
+OI-00246,ORD-00246,2025-09-09,CUST-0051,Noah Patel,East,Online,Headphones,Electronics,2,153.15,0.0,95.46,Bank Transfer,False,PROD-003,306.3,0.0,306.3,190.92
+OI-00247,ORD-00247,2025-05-28,CUST-0033,Ava Chen,Central,Online,Keyboard,Accessories,3,80.38,0.1,47.9,Bank Transfer,False,PROD-004,241.14,0.24,240.9,143.7
+OI-00248,ORD-00248,2025-07-07,CUST-0028,Ava Chen,South,Retail,Notebook,Office Supplies,1,7.03,0.1,4.24,Credit Card,False,PROD-008,7.03,0.01,7.02,4.24
+OI-00249,ORD-00249,2025-06-28,CUST-0052,Ethan Brown,Central,Wholesale,Monitor,Electronics,15,318.91,0.1,181.23,Bank Transfer,False,PROD-006,4783.65,4.78,4778.87,2718.45
+OI-00250,ORD-00250,2025-11-09,CUST-0052,Ava Chen,Central,Retail,USB-C Hub,Accessories,3,54.68,0.1,40.03,Bank Transfer,False,PROD-011,164.04,0.16,163.88,120.09
+OI-00251,ORD-00251,2025-03-28,CUST-0033,Ethan Brown,North,Online,Standing Desk,Furniture,2,580.0,0.05,398.67,Cash,False,PROD-010,1160.0,0.58,1159.42,797.34
+OI-00252,ORD-00252,2025-05-22,CUST-0054,Noah Patel,West,Retail,USB-C Hub,Accessories,5,51.04,0.0,38.46,PayPal,False,PROD-011,255.2,0.0,255.2,192.3
+OI-00253,ORD-00253,2025-05-18,CUST-0006,Liam Johnson,Central,Wholesale,USB-C Hub,Accessories,2,54.51,0.05,41.05,Bank Transfer,False,PROD-011,109.02,0.05,108.97,82.1
+OI-00254,ORD-00254,2025-07-08,CUST-0047,Ava Chen,West,Wholesale,Webcam,Electronics,2,99.82,0.0,64.51,Bank Transfer,False,PROD-012,199.64,0.0,199.64,129.02
+OI-00255,ORD-00255,2025-10-01,CUST-0054,Mia Garcia,East,Wholesale,Headphones,Electronics,2,137.45,0.0,83.4,PayPal,False,PROD-003,274.9,0.0,274.9,166.8
+OI-00256,ORD-00256,2025-09-06,CUST-0054,Liam Johnson,North,Online,Standing Desk,Furniture,4,570.29,0.0,351.17,PayPal,False,PROD-010,2281.16,0.0,2281.16,1404.68
+OI-00257,ORD-00257,2025-01-01,CUST-0011,Mia Garcia,North,Wholesale,Headphones,Electronics,3,136.95,0.0,98.89,Bank Transfer,False,PROD-003,410.85,0.0,410.85,296.67
+OI-00258,ORD-00258,2025-07-10,CUST-0045,Noah Patel,West,Wholesale,USB-C Hub,Accessories,1,60.44,0.0,32.2,Credit Card,False,PROD-011,60.44,0.0,60.44,32.2
+OI-00259,ORD-00259,2025-01-01,CUST-0001,Ava Chen,East,Online,Mouse,Accessories,1,35.17,0.0,24.16,Cash,False,PROD-007,35.17,0.0,35.17,24.16
+OI-00260,ORD-00260,2025-09-02,CUST-0024,Mia Garcia,South,Retail,Monitor,Electronics,1,304.12,0.1,169.25,PayPal,False,PROD-006,304.12,0.3,303.82,169.25
+OI-00261,ORD-00261,2025-12-13,CUST-0023,Ethan Brown,South,Wholesale,Keyboard,Accessories,3,68.63,0.05,40.95,PayPal,False,PROD-004,205.89,0.1,205.79,122.85
+OI-00262,ORD-00262,2025-11-12,CUST-0008,Sofia Kim,West,Retail,USB-C Hub,Accessories,1,54.85,0.15,29.66,Cash,False,PROD-011,54.85,0.08,54.77,29.66
+OI-00263,ORD-00263,2025-03-13,CUST-0039,Mia Garcia,North,Wholesale,Mouse,Accessories,1,33.63,0.05,23.38,Bank Transfer,False,PROD-007,33.63,0.02,33.61,23.38
+OI-00264,ORD-00264,2025-11-07,CUST-0051,Noah Patel,West,Retail,Notebook,Office Supplies,2,6.12,0.05,4.68,Credit Card,False,PROD-008,12.24,0.01,12.23,9.36
+OI-00265,ORD-00265,2025-11-23,CUST-0021,Noah Patel,West,Wholesale,Pen Set,Office Supplies,5,10.99,0.0,7.21,Cash,False,PROD-009,54.95,0.0,54.95,36.05
+OI-00266,ORD-00266,2025-12-16,CUST-0005,Ava Chen,East,Online,Keyboard,Accessories,10,80.08,0.1,37.85,Credit Card,False,PROD-004,800.8,0.8,800.0,378.5
+OI-00267,ORD-00267,2025-07-23,CUST-0026,Ava Chen,Central,Wholesale,Notebook,Office Supplies,4,6.26,0.1,4.02,PayPal,False,PROD-008,25.04,0.03,25.01,16.08
+OI-00268,ORD-00268,2025-06-08,CUST-0026,Sofia Kim,North,Retail,Monitor,Electronics,1,324.0,0.1,208.06,Cash,False,PROD-006,324.0,0.32,323.68,208.06
+OI-00269,ORD-00269,2025-05-03,CUST-0004,Mia Garcia,South,Online,Laptop,Electronics,8,1144.54,0.0,805.73,Credit Card,False,PROD-005,9156.32,0.0,9156.32,6445.84
+OI-00270,ORD-00270,2025-12-26,CUST-0047,Mia Garcia,South,Retail,Laptop,Electronics,10,1123.25,0.05,863.08,PayPal,False,PROD-005,11232.5,5.62,11226.88,8630.8
+OI-00271,ORD-00271,2025-05-18,CUST-0018,Sofia Kim,North,Retail,Desk Lamp,Furniture,4,52.56,0.0,34.85,Credit Card,False,PROD-002,210.24,0.0,210.24,139.4
+OI-00272,ORD-00272,2025-09-19,CUST-0050,Ava Chen,Central,Wholesale,Standing Desk,Furniture,5,474.34,0.0,282.9,Credit Card,False,PROD-010,2371.7,0.0,2371.7,1414.5
+OI-00273,ORD-00273,2025-09-18,CUST-0025,Noah Patel,South,Online,Laptop,Electronics,5,1091.63,0.0,758.51,Cash,False,PROD-005,5458.15,0.0,5458.15,3792.55
+OI-00274,ORD-00274,2025-05-08,CUST-0008,Sofia Kim,North,Online,Headphones,Electronics,2,159.72,0.1,95.7,PayPal,False,PROD-003,319.44,0.32,319.12,191.4
+OI-00275,ORD-00275,2025-01-24,CUST-0021,Ava Chen,Central,Retail,Headphones,Electronics,2,132.7,0.0,106.8,Credit Card,False,PROD-003,265.4,0.0,265.4,213.6
+OI-00276,ORD-00276,2025-05-30,CUST-0032,Noah Patel,Central,Online,Pen Set,Office Supplies,4,12.87,0.0,7.24,PayPal,False,PROD-009,51.48,0.0,51.48,28.96
+OI-00277,ORD-00277,2025-07-29,CUST-0022,Ava Chen,West,Wholesale,Laptop,Electronics,2,1141.51,0.15,894.74,Bank Transfer,False,PROD-005,2283.02,3.42,2279.6,1789.48
+OI-00278,ORD-00278,2025-09-29,CUST-0018,Ava Chen,North,Online,Mouse,Accessories,10,34.73,0.2,18.9,Cash,False,PROD-007,347.3,0.69,346.61,189.0
+OI-00279,ORD-00279,2025-07-10,CUST-0053,Liam Johnson,North,Wholesale,Webcam,Electronics,1,100.3,0.0,48.36,Credit Card,False,PROD-012,100.3,0.0,100.3,48.36
+OI-00280,ORD-00280,2025-03-08,CUST-0054,Ethan Brown,East,Retail,Mouse,Accessories,5,33.75,0.15,21.35,Cash,False,PROD-007,168.75,0.25,168.5,106.75
+OI-00281,ORD-00281,2025-02-08,CUST-0029,Liam Johnson,East,Retail,Mouse,Accessories,4,32.55,0.0,18.54,Credit Card,False,PROD-007,130.2,0.0,130.2,74.16
+OI-00282,ORD-00282,2025-04-17,CUST-0044,Mia Garcia,Central,Online,Webcam,Electronics,1,87.1,0.0,48.97,PayPal,False,PROD-012,87.1,0.0,87.1,48.97
+OI-00283,ORD-00283,2025-06-17,CUST-0044,Mia Garcia,East,Online,Keyboard,Accessories,1,69.01,0.0,48.28,Credit Card,True,PROD-004,69.01,0.0,69.01,48.28
+OI-00284,ORD-00284,2025-08-20,CUST-0009,Ava Chen,North,Online,Notebook,Office Supplies,1,6.92,0.05,4.71,PayPal,False,PROD-008,6.92,0.0,6.92,4.71
+OI-00285,ORD-00285,2025-07-25,CUST-0059,Ava Chen,North,Online,Standing Desk,Furniture,8,546.51,0.0,345.34,PayPal,False,PROD-010,4372.08,0.0,4372.08,2762.72
+OI-00286,ORD-00286,2025-08-16,CUST-0030,Ava Chen,South,Wholesale,Keyboard,Accessories,5,69.02,0.1,40.07,Cash,False,PROD-004,345.1,0.35,344.75,200.35
+OI-00287,ORD-00287,2025-07-22,CUST-0012,Mia Garcia,East,Retail,Webcam,Electronics,3,81.58,0.0,50.41,PayPal,False,PROD-012,244.74,0.0,244.74,151.23
+OI-00288,ORD-00288,2025-11-14,CUST-0004,Ava Chen,East,Retail,Pen Set,Office Supplies,2,11.45,0.0,7.85,PayPal,False,PROD-009,22.9,0.0,22.9,15.7
+OI-00289,ORD-00289,2025-11-26,CUST-0025,Ethan Brown,East,Retail,Notebook,Office Supplies,15,6.21,0.05,3.29,Cash,False,PROD-008,93.15,0.05,93.1,49.35
+OI-00290,ORD-00290,2025-10-17,CUST-0002,Mia Garcia,North,Retail,Notebook,Office Supplies,1,6.31,0.0,4.34,Bank Transfer,False,PROD-008,6.31,0.0,6.31,4.34
+OI-00291,ORD-00291,2025-04-30,CUST-0059,Ethan Brown,North,Online,Keyboard,Accessories,3,69.15,0.0,54.64,Cash,False,PROD-004,207.45,0.0,207.45,163.92
+OI-00292,ORD-00292,2025-03-30,CUST-0038,Ava Chen,East,Wholesale,Keyboard,Accessories,2,71.4,0.1,45.03,PayPal,False,PROD-004,142.8,0.14,142.66,90.06
+OI-00293,ORD-00293,2025-04-07,CUST-0039,Noah Patel,North,Wholesale,Webcam,Electronics,1,91.73,0.0,46.42,Cash,False,PROD-012,91.73,0.0,91.73,46.42
+OI-00294,ORD-00294,2025-11-11,CUST-0056,Mia Garcia,North,Online,Mouse,Accessories,2,37.71,0.0,25.36,PayPal,False,PROD-007,75.42,0.0,75.42,50.72
+OI-00295,ORD-00295,2025-03-14,CUST-0043,Liam Johnson,Central,Online,Monitor,Electronics,5,347.59,0.2,193.47,Bank Transfer,False,PROD-006,1737.95,3.48,1734.47,967.35
+OI-00296,ORD-00296,2025-03-11,CUST-0021,Noah Patel,Central,Wholesale,Keyboard,Accessories,2,79.58,0.05,47.73,Bank Transfer,False,PROD-004,159.16,0.08,159.08,95.46
+OI-00297,ORD-00297,2025-10-29,CUST-0001,Ethan Brown,Central,Retail,Keyboard,Accessories,4,73.74,0.0,41.23,Credit Card,False,PROD-004,294.96,0.0,294.96,164.92
+OI-00298,ORD-00298,2025-06-12,CUST-0048,Ava Chen,South,Retail,Pen Set,Office Supplies,3,11.38,0.15,6.47,Bank Transfer,False,PROD-009,34.14,0.05,34.09,19.41
+OI-00299,ORD-00299,2025-02-15,CUST-0014,Noah Patel,North,Retail,Desk Lamp,Furniture,4,50.28,0.0,24.15,Bank Transfer,False,PROD-002,201.12,0.0,201.12,96.6
+OI-00300,ORD-00300,2025-01-01,CUST-0032,Liam Johnson,East,Wholesale,Laptop,Electronics,4,1181.89,0.2,897.21,Cash,False,PROD-005,4727.56,9.46,4718.1,3588.84
+OI-00301,ORD-00301,2025-09-03,CUST-0055,Ava Chen,East,Online,Pen Set,Office Supplies,3,12.52,0.0,6.25,Bank Transfer,False,PROD-009,37.56,0.0,37.56,18.75
+OI-00302,ORD-00302,2025-02-23,CUST-0058,Ava Chen,East,Wholesale,Monitor,Electronics,5,312.06,0.0,166.72,Cash,False,PROD-006,1560.3,0.0,1560.3,833.6
+OI-00303,ORD-00303,2025-08-09,CUST-0014,Noah Patel,West,Wholesale,USB-C Hub,Accessories,5,51.5,0.0,29.06,Bank Transfer,False,PROD-011,257.5,0.0,257.5,145.3
+OI-00304,ORD-00304,2025-06-02,CUST-0004,Mia Garcia,North,Retail,Mouse,Accessories,2,32.24,0.05,22.31,Credit Card,False,PROD-007,64.48,0.03,64.45,44.62
+OI-00305,ORD-00305,2025-12-05,CUST-0019,Ava Chen,West,Online,USB-C Hub,Accessories,1,56.76,0.0,30.13,Bank Transfer,False,PROD-011,56.76,0.0,56.76,30.13
+OI-00306,ORD-00306,2025-08-30,CUST-0024,Liam Johnson,East,Online,Webcam,Electronics,1,98.72,0.05,54.77,Cash,False,PROD-012,98.72,0.05,98.67,54.77
+OI-00307,ORD-00307,2025-08-14,CUST-0045,Ethan Brown,North,Online,Webcam,Electronics,5,86.22,0.05,48.81,Bank Transfer,False,PROD-012,431.1,0.22,430.88,244.05
+OI-00308,ORD-00308,2025-07-31,CUST-0035,Ethan Brown,West,Wholesale,Pen Set,Office Supplies,1,11.4,0.0,7.76,PayPal,False,PROD-009,11.4,0.0,11.4,7.76
+OI-00309,ORD-00309,2025-02-10,CUST-0052,Sofia Kim,Central,Online,Headphones,Electronics,4,159.3,0.05,109.06,Credit Card,True,PROD-003,637.2,0.32,636.88,436.24
+OI-00310,ORD-00310,2025-08-18,CUST-0003,Liam Johnson,North,Wholesale,Keyboard,Accessories,1,83.16,0.0,41.55,Cash,False,PROD-004,83.16,0.0,83.16,41.55
+OI-00311,ORD-00311,2025-11-18,CUST-0005,Ava Chen,West,Wholesale,Keyboard,Accessories,1,81.26,,56.7,Cash,False,PROD-004,81.26,,,56.7
+OI-00312,ORD-00312,2025-05-22,CUST-0034,Liam Johnson,North,Retail,Notebook,Office Supplies,5,6.51,0.1,4.38,PayPal,False,PROD-008,32.55,0.03,32.52,21.9
+OI-00313,ORD-00313,2025-10-29,CUST-0007,Mia Garcia,Central,Retail,Pen Set,Office Supplies,8,12.8,0.15,7.89,Cash,False,PROD-009,102.4,0.15,102.25,63.12
+OI-00314,ORD-00314,2025-12-02,CUST-0040,Sofia Kim,West,Online,Webcam,Electronics,2,92.33,0.0,55.15,Cash,False,PROD-012,184.66,0.0,184.66,110.3
+OI-00315,ORD-00315,2025-06-19,CUST-0002,Mia Garcia,East,Retail,Desk Lamp,Furniture,4,45.71,0.15,36.06,Bank Transfer,False,PROD-002,182.84,0.27,182.57,144.24
+OI-00316,ORD-00316,2025-12-23,CUST-0029,Mia Garcia,East,Wholesale,USB-C Hub,Accessories,5,50.69,0.0,42.5,Cash,False,PROD-011,253.45,0.0,253.45,212.5
+OI-00317,ORD-00317,2025-02-15,CUST-0034,Mia Garcia,North,Wholesale,Mouse,Accessories,8,34.9,0.0,22.25,PayPal,False,PROD-007,279.2,0.0,279.2,178.0
+OI-00318,ORD-00318,2025-12-30,CUST-0012,Noah Patel,South,Online,Notebook,Office Supplies,4,6.43,0.05,4.28,PayPal,False,PROD-008,25.72,0.01,25.71,17.12
+OI-00319,ORD-00319,2025-01-26,CUST-0041,Ava Chen,North,Online,Standing Desk,Furniture,1,548.61,0.1,333.55,Bank Transfer,False,PROD-010,548.61,0.55,548.06,333.55
+OI-00320,ORD-00320,2025-08-17,CUST-0054,Mia Garcia,North,Retail,Keyboard,Accessories,2,83.35,0.05,44.73,Credit Card,False,PROD-004,166.7,0.08,166.62,89.46
+OI-00321,ORD-00321,2025-03-25,CUST-0014,Mia Garcia,West,Wholesale,Pen Set,Office Supplies,1,12.86,0.0,6.76,Credit Card,False,PROD-009,12.86,0.0,12.86,6.76
+OI-00322,ORD-00322,2025-12-16,CUST-0015,Mia Garcia,Central,Retail,Laptop,Electronics,1,1205.16,0.0,869.09,Bank Transfer,False,PROD-005,1205.16,0.0,1205.16,869.09
+OI-00323,ORD-00323,2025-07-12,CUST-0040,Liam Johnson,Central,Online,Standing Desk,Furniture,1,520.51,0.0,335.8,Credit Card,False,PROD-010,520.51,0.0,520.51,335.8
+OI-00324,ORD-00324,2025-12-06,CUST-0031,Ava Chen,East,Retail,Standing Desk,Furniture,3,532.23,0.0,359.65,Bank Transfer,False,PROD-010,1596.69,0.0,1596.69,1078.95
+OI-00325,ORD-00325,2025-05-14,CUST-0049,Noah Patel,North,Wholesale,USB-C Hub,Accessories,5,58.1,0.0,29.81,Cash,False,PROD-011,290.5,0.0,290.5,149.05
+OI-00326,ORD-00326,2025-12-15,CUST-0027,Liam Johnson,West,Wholesale,Keyboard,Accessories,3,79.4,0.2,42.95,Credit Card,False,PROD-004,238.2,0.48,237.72,128.85
+OI-00327,ORD-00327,2025-10-20,CUST-0031,Ethan Brown,East,Wholesale,Mouse,Accessories,4,34.14,0.1,23.76,Bank Transfer,False,PROD-007,136.56,0.14,136.42,95.04
+OI-00328,ORD-00328,2025-12-03,CUST-0052,Sofia Kim,South,Wholesale,Notebook,Office Supplies,1,6.11,0.0,3.72,Bank Transfer,False,PROD-008,6.11,0.0,6.11,3.72
+OI-00329,ORD-00329,2025-04-24,CUST-0024,Mia Garcia,Central,Retail,Standing Desk,Furniture,5,493.55,0.0,389.12,Cash,False,PROD-010,2467.75,0.0,2467.75,1945.6
+OI-00330,ORD-00330,2025-08-29,CUST-0057,Noah Patel,Central,Online,Laptop,Electronics,3,1308.73,0.15,623.93,Cash,False,PROD-005,3926.19,5.89,3920.3,1871.79
+OI-00331,ORD-00331,2025-07-31,CUST-0037,Liam Johnson,South,Retail,Laptop,Electronics,1,1309.9,0.2,715.14,PayPal,False,PROD-005,1309.9,2.62,1307.28,715.14
+OI-00332,ORD-00332,2025-09-07,CUST-0018,Noah Patel,South,Wholesale,Standing Desk,Furniture,1,540.19,0.05,260.69,PayPal,False,PROD-010,540.19,0.27,539.92,260.69
+OI-00333,ORD-00333,2025-02-15,CUST-0025,Ava Chen,North,Wholesale,Keyboard,Accessories,3,77.64,0.0,57.77,PayPal,False,PROD-004,232.92,0.0,232.92,173.31
+OI-00334,ORD-00334,2025-01-08,CUST-0047,Noah Patel,South,Wholesale,Standing Desk,Furniture,3,554.58,0.0,260.6,Bank Transfer,False,PROD-010,1663.74,0.0,1663.74,781.8
+OI-00335,ORD-00335,2025-02-22,CUST-0019,Liam Johnson,Central,Wholesale,Headphones,Electronics,2,146.56,0.0,74.36,Bank Transfer,False,PROD-003,293.12,0.0,293.12,148.72
+OI-00336,ORD-00336,2025-12-18,CUST-0059,Liam Johnson,North,Online,Keyboard,Accessories,8,73.16,0.0,41.46,PayPal,False,PROD-004,585.28,0.0,585.28,331.68
+OI-00337,ORD-00337,2025-03-09,CUST-0042,Ava Chen,West,Wholesale,Mouse,Accessories,3,37.15,0.0,21.09,Bank Transfer,False,PROD-007,111.45,0.0,111.45,63.27
+OI-00338,ORD-00338,2025-11-16,CUST-0004,Ethan Brown,North,Retail,Laptop,Electronics,1,1236.8,0.0,880.94,Cash,False,PROD-005,1236.8,0.0,1236.8,880.94
+OI-00339,ORD-00339,2025-10-08,CUST-0020,Liam Johnson,North,Wholesale,Desk Chair,Furniture,1,241.05,0.1,162.36,Bank Transfer,False,PROD-001,241.05,0.24,240.81,162.36
+OI-00340,ORD-00340,2025-12-25,CUST-0019,Ava Chen,North,Retail,Keyboard,Accessories,5,74.41,0.05,50.47,PayPal,False,PROD-004,372.05,0.19,371.86,252.35
+OI-00341,ORD-00341,2025-05-15,CUST-0036,Liam Johnson,South,Wholesale,Notebook,Office Supplies,2,7.24,0.0,3.54,Cash,False,PROD-008,14.48,0.0,14.48,7.08
+OI-00342,ORD-00342,2025-01-02,CUST-0010,Ava Chen,Central,Online,Laptop,Electronics,8,1257.31,0.15,824.79,Credit Card,False,PROD-005,10058.48,15.09,10043.39,6598.32
+OI-00343,ORD-00343,2025-11-26,CUST-0053,Noah Patel,North,Retail,Mouse,Accessories,10,35.02,0.0,17.99,Bank Transfer,False,PROD-007,350.2,0.0,350.2,179.9
+OI-00344,ORD-00344,2025-06-10,CUST-0055,Noah Patel,South,Retail,Headphones,Electronics,1,154.06,0.1,74.36,Bank Transfer,False,PROD-003,154.06,0.15,153.91,74.36
+OI-00345,ORD-00345,2025-11-15,CUST-0026,Liam Johnson,West,Retail,Desk Chair,Furniture,1,262.38,0.1,132.29,Cash,False,PROD-001,262.38,0.26,262.12,132.29
+OI-00346,ORD-00346,2025-09-02,CUST-0004,Noah Patel,North,Retail,Headphones,Electronics,4,151.2,0.0,100.76,Cash,False,PROD-003,604.8,0.0,604.8,403.04
+OI-00347,ORD-00347,2025-12-14,CUST-0044,Ethan Brown,South,Retail,Webcam,Electronics,2,84.59,0.0,45.73,Cash,False,PROD-012,169.18,0.0,169.18,91.46
+OI-00348,ORD-00348,2025-07-30,CUST-0044,Sofia Kim,Central,Wholesale,Webcam,Electronics,1,81.91,0.0,62.76,PayPal,True,PROD-012,81.91,0.0,81.91,62.76
+OI-00349,ORD-00349,2025-12-09,CUST-0047,Noah Patel,West,Retail,Standing Desk,Furniture,3,527.39,0.05,323.02,Cash,False,PROD-010,1582.17,0.79,1581.38,969.06
+OI-00350,ORD-00350,2025-10-13,CUST-0055,Liam Johnson,South,Online,Pen Set,Office Supplies,3,10.94,0.0,8.85,Cash,False,PROD-009,32.82,0.0,32.82,26.55
+OI-00351,ORD-00351,2025-06-19,CUST-0016,Ava Chen,West,Retail,Desk Chair,Furniture,1,218.66,0.05,147.1,Cash,False,PROD-001,218.66,0.11,218.55,147.1
+OI-00352,ORD-00352,2025-09-13,CUST-0026,Liam Johnson,North,Wholesale,Webcam,Electronics,15,87.26,0.1,45.45,Credit Card,False,PROD-012,1308.9,1.31,1307.59,681.75
+OI-00353,ORD-00353,2025-11-06,CUST-0030,Mia Garcia,East,Online,Pen Set,Office Supplies,5,12.48,0.05,8.2,PayPal,False,PROD-009,62.4,0.03,62.37,41.0
+OI-00354,ORD-00354,2025-06-19,CUST-0029,Ava Chen,North,Wholesale,Notebook,Office Supplies,3,6.95,0.1,3.91,PayPal,False,PROD-008,20.85,0.02,20.83,11.73
+OI-00355,ORD-00355,2025-07-01,CUST-0003,Noah Patel,West,Online,USB-C Hub,Accessories,2,61.17,0.05,38.31,Cash,False,PROD-011,122.34,0.06,122.28,76.62
+OI-00356,ORD-00356,2025-11-09,CUST-0051,Noah Patel,East,Online,Mouse,Accessories,8,32.94,0.0,21.98,Cash,False,PROD-007,263.52,0.0,263.52,175.84
+OI-00357,ORD-00357,2025-11-21,CUST-0033,Noah Patel,West,Online,USB-C Hub,Accessories,4,56.62,0.05,37.64,Credit Card,False,PROD-011,226.48,0.11,226.37,150.56
+OI-00358,ORD-00358,2025-08-10,CUST-0038,Noah Patel,South,Online,Pen Set,Office Supplies,2,12.07,0.15,6.6,Cash,False,PROD-009,24.14,0.04,24.1,13.2
+OI-00359,ORD-00359,2025-11-07,CUST-0049,Noah Patel,East,Retail,Standing Desk,Furniture,2,525.67,0.2,393.36,Bank Transfer,True,PROD-010,1051.34,2.1,1049.24,786.72
+OI-00360,ORD-00360,2025-08-20,CUST-0054,Ethan Brown,Central,Retail,Keyboard,Accessories,3,69.78,0.15,48.26,PayPal,False,PROD-004,209.34,0.31,209.03,144.78
+OI-00361,ORD-00361,2025-11-16,CUST-0042,Noah Patel,Central,Wholesale,Desk Lamp,Furniture,2,46.27,0.1,37.19,Bank Transfer,False,PROD-002,92.54,0.09,92.45,74.38
+OI-00362,ORD-00362,2025-06-30,CUST-0048,Sofia Kim,East,Retail,Notebook,Office Supplies,3,6.54,0.1,4.01,Credit Card,False,PROD-008,19.62,0.02,19.6,12.03
+OI-00363,ORD-00363,2025-01-13,CUST-0011,Mia Garcia,East,Online,Headphones,Electronics,3,135.14,0.0,102.96,Credit Card,False,PROD-003,405.42,0.0,405.42,308.88
+OI-00364,ORD-00364,2025-06-01,CUST-0056,Ethan Brown,Central,Online,Mouse,Accessories,1,37.3,0.1,18.5,Cash,False,PROD-007,37.3,0.04,37.26,18.5
+OI-00365,ORD-00365,2025-12-23,CUST-0051,Ethan Brown,East,Wholesale,Desk Chair,Furniture,1,252.59,0.0,147.99,Credit Card,False,PROD-001,252.59,0.0,252.59,147.99
+OI-00366,ORD-00366,2025-05-09,CUST-0059,Ethan Brown,East,Wholesale,Mouse,Accessories,4,36.28,0.15,25.63,PayPal,False,PROD-007,145.12,0.22,144.9,102.52
+OI-00367,ORD-00367,2025-04-10,CUST-0048,Sofia Kim,North,Retail,Desk Chair,Furniture,15,239.7,0.0,184.68,Credit Card,False,PROD-001,3595.5,0.0,3595.5,2770.2
+OI-00368,ORD-00368,2025-10-12,CUST-0046,Noah Patel,North,Online,Desk Chair,Furniture,3,222.87,0.0,142.21,Bank Transfer,False,PROD-001,668.61,0.0,668.61,426.63
+OI-00369,ORD-00369,2025-11-17,CUST-0005,Ethan Brown,East,Wholesale,Pen Set,Office Supplies,2,13.03,0.1,7.85,PayPal,True,PROD-009,26.06,0.03,26.03,15.7
+OI-00370,ORD-00370,2025-09-24,CUST-0023,Noah Patel,South,Wholesale,Monitor,Electronics,1,343.35,0.05,196.15,Bank Transfer,False,PROD-006,343.35,0.17,343.18,196.15
+OI-00371,ORD-00371,2025-05-31,CUST-0049,Ethan Brown,North,Online,Mouse,Accessories,3,38.82,0.05,23.0,Bank Transfer,False,PROD-007,116.46,0.06,116.4,69.0
+OI-00372,ORD-00372,2025-11-25,CUST-0025,Ava Chen,West,Retail,Pen Set,Office Supplies,1,13.23,0.0,8.98,Bank Transfer,False,PROD-009,13.23,0.0,13.23,8.98
+OI-00373,ORD-00373,2025-09-22,CUST-0042,Noah Patel,East,Wholesale,Standing Desk,Furniture,2,526.84,0.05,303.16,Credit Card,True,PROD-010,1053.68,0.53,1053.15,606.32
+OI-00374,ORD-00374,2025-03-27,CUST-0014,Ethan Brown,West,Online,Notebook,Office Supplies,3,6.61,0.0,4.4,PayPal,False,PROD-008,19.83,0.0,19.83,13.2
+OI-00375,ORD-00375,2025-12-26,CUST-0010,Ava Chen,West,Wholesale,Desk Lamp,Furniture,3,51.39,0.15,34.04,Bank Transfer,False,PROD-002,154.17,0.23,153.94,102.12
+OI-00376,ORD-00376,2025-02-07,CUST-0059,Mia Garcia,West,Retail,Laptop,Electronics,1,1126.99,0.0,876.06,Cash,False,PROD-005,1126.99,0.0,1126.99,876.06
+OI-00377,ORD-00377,2025-08-10,CUST-0040,Ava Chen,Central,Online,Standing Desk,Furniture,3,469.93,0.05,353.39,Credit Card,False,PROD-010,1409.79,0.7,1409.09,1060.17
+OI-00378,ORD-00378,2025-09-15,CUST-0060,Liam Johnson,West,Retail,Monitor,Electronics,3,308.4,0.05,185.22,Credit Card,False,PROD-006,925.2,0.46,924.74,555.66
+OI-00379,ORD-00379,2025-10-01,CUST-0041,Noah Patel,East,Wholesale,Mouse,Accessories,2,32.55,0.1,22.85,Bank Transfer,True,PROD-007,65.1,0.07,65.03,45.7
+OI-00380,ORD-00380,2025-01-06,CUST-0026,Sofia Kim,Central,Online,Notebook,Office Supplies,1,7.1,0.0,4.29,Bank Transfer,False,PROD-008,7.1,0.0,7.1,4.29
+OI-00381,ORD-00381,2025-06-26,CUST-0015,Sofia Kim,East,Online,Mouse,Accessories,3,34.68,0.05,19.08,Credit Card,False,PROD-007,104.04,0.05,103.99,57.24
+OI-00382,ORD-00382,2025-10-18,CUST-0036,Ava Chen,East,Wholesale,Laptop,Electronics,8,1304.77,0.2,754.99,Credit Card,False,PROD-005,10438.16,20.88,10417.28,6039.92
+OI-00383,ORD-00383,2025-04-12,CUST-0016,Ava Chen,East,Wholesale,Desk Lamp,Furniture,10,49.33,0.0,33.02,Credit Card,False,PROD-002,493.3,0.0,493.3,330.2
+OI-00384,ORD-00384,2025-06-12,CUST-0037,Sofia Kim,East,Retail,Webcam,Electronics,3,89.92,0.0,59.72,Cash,False,PROD-012,269.76,0.0,269.76,179.16
+OI-00385,ORD-00385,2025-06-10,CUST-0024,Noah Patel,East,Retail,Mouse,Accessories,4,37.55,0.05,20.21,Cash,False,PROD-007,150.2,0.08,150.12,80.84
+OI-00386,ORD-00386,2025-06-06,CUST-0055,Noah Patel,Central,Online,Webcam,Electronics,1,91.92,0.05,66.21,Bank Transfer,False,PROD-012,91.92,0.05,91.87,66.21
+OI-00387,ORD-00387,2025-11-17,CUST-0053,Sofia Kim,Central,Retail,Monitor,Electronics,5,339.21,0.15,216.59,PayPal,False,PROD-006,1696.05,2.54,1693.51,1082.95
+OI-00388,ORD-00388,2025-10-10,CUST-0024,Liam Johnson,South,Wholesale,Desk Chair,Furniture,15,244.7,0.05,172.09,Bank Transfer,False,PROD-001,3670.5,1.84,3668.66,2581.35
+OI-00389,ORD-00389,2025-09-14,CUST-0052,Sofia Kim,South,Wholesale,Notebook,Office Supplies,2,5.98,0.0,3.68,PayPal,False,PROD-008,11.96,0.0,11.96,7.36
+OI-00390,ORD-00390,2025-04-02,CUST-0031,Mia Garcia,North,Online,Pen Set,Office Supplies,3,13.3,0.2,8.47,Cash,False,PROD-009,39.9,0.08,39.82,25.41
+OI-00391,ORD-00391,2025-05-16,CUST-0025,Liam Johnson,West,Online,Standing Desk,Furniture,3,494.77,0.05,375.24,Credit Card,True,PROD-010,1484.31,0.74,1483.57,1125.72
+OI-00392,ORD-00392,2025-06-15,CUST-0017,Sofia Kim,Central,Wholesale,Monitor,Electronics,3,337.54,0.1,234.8,PayPal,False,PROD-006,1012.62,1.01,1011.61,704.4
+OI-00393,ORD-00393,2025-07-13,CUST-0059,Noah Patel,Central,Retail,Standing Desk,Furniture,5,535.23,0.0,296.63,Bank Transfer,False,PROD-010,2676.15,0.0,2676.15,1483.15
+OI-00394,ORD-00394,2025-06-26,CUST-0029,Noah Patel,South,Online,Webcam,Electronics,5,96.69,0.0,67.23,Bank Transfer,False,PROD-012,483.45,0.0,483.45,336.15
+OI-00395,ORD-00395,2025-04-06,CUST-0052,Mia Garcia,North,Retail,Keyboard,Accessories,4,73.48,0.0,42.34,Cash,False,PROD-004,293.92,0.0,293.92,169.36
+OI-00396,ORD-00396,2025-10-30,CUST-0038,Noah Patel,South,Wholesale,Keyboard,Accessories,2,78.18,0.0,40.19,Credit Card,False,PROD-004,156.36,0.0,156.36,80.38
+OI-00397,ORD-00397,2025-03-17,CUST-0037,Ethan Brown,North,Wholesale,Laptop,Electronics,8,1123.91,0.05,736.23,Bank Transfer,True,PROD-005,8991.28,4.5,8986.78,5889.84
+OI-00398,ORD-00398,2025-04-21,CUST-0027,Sofia Kim,South,Wholesale,Webcam,Electronics,2,93.01,0.05,50.53,PayPal,False,PROD-012,186.02,0.09,185.93,101.06
+OI-00399,ORD-00399,2025-09-19,CUST-0005,Noah Patel,West,Retail,Desk Chair,Furniture,3,224.86,0.15,160.09,PayPal,False,PROD-001,674.58,1.01,673.57,480.27
+OI-00400,ORD-00400,2025-04-14,CUST-0007,Noah Patel,West,Wholesale,Notebook,Office Supplies,2,7.08,0.0,3.52,Credit Card,False,PROD-008,14.16,0.0,14.16,7.04
+OI-00401,ORD-00401,2025-09-30,CUST-0035,Ava Chen,West,Wholesale,Notebook,Office Supplies,1,6.93,0.1,4.89,Cash,False,PROD-008,6.93,0.01,6.92,4.89
+OI-00402,ORD-00402,2025-01-23,CUST-0025,Mia Garcia,Central,Wholesale,Desk Lamp,Furniture,1,48.79,0.1,34.61,Credit Card,False,PROD-002,48.79,0.05,48.74,34.61
+OI-00403,ORD-00403,2025-05-11,CUST-0035,Liam Johnson,East,Online,Webcam,Electronics,8,96.16,0.0,60.08,Credit Card,False,PROD-012,769.28,0.0,769.28,480.64
+OI-00404,ORD-00404,2025-01-04,CUST-0052,Mia Garcia,West,Retail,Pen Set,Office Supplies,2,12.18,0.0,6.69,Credit Card,False,PROD-009,24.36,0.0,24.36,13.38
+OI-00405,ORD-00405,2025-11-30,CUST-0018,Ethan Brown,West,Online,Pen Set,Office Supplies,5,11.47,0.0,7.23,Cash,False,PROD-009,57.35,0.0,57.35,36.15
+OI-00406,ORD-00406,2025-10-13,CUST-0037,Mia Garcia,West,Wholesale,Webcam,Electronics,3,84.54,0.05,69.91,PayPal,False,PROD-012,253.62,0.13,253.49,209.73
+OI-00407,ORD-00407,2025-12-04,CUST-0014,Sofia Kim,West,Retail,Monitor,Electronics,2,340.65,0.1,174.5,Credit Card,False,PROD-006,681.3,0.68,680.62,349.0
+OI-00408,ORD-00408,2025-11-22,CUST-0006,Ava Chen,East,Online,Laptop,Electronics,5,1292.35,0.05,801.68,Bank Transfer,False,PROD-005,6461.75,3.23,6458.52,4008.4
+OI-00409,ORD-00409,2025-01-20,CUST-0046,Sofia Kim,North,Online,Desk Lamp,Furniture,15,47.26,0.05,31.0,Cash,False,PROD-002,708.9,0.35,708.55,465.0
+OI-00410,ORD-00410,2025-04-14,CUST-0033,Sofia Kim,South,Wholesale,USB-C Hub,Accessories,2,60.76,0.0,39.57,PayPal,False,PROD-011,121.52,0.0,121.52,79.14
+OI-00411,ORD-00411,2025-07-04,CUST-0026,Mia Garcia,West,Retail,Mouse,Accessories,10,36.54,0.0,20.2,PayPal,False,PROD-007,365.4,0.0,365.4,202.0
+OI-00412,ORD-00412,2025-12-27,CUST-0038,Mia Garcia,East,Retail,Monitor,Electronics,3,352.71,0.1,210.1,PayPal,False,PROD-006,1058.13,1.06,1057.07,630.3
+OI-00413,ORD-00413,2025-04-10,CUST-0007,Sofia Kim,North,Wholesale,Webcam,Electronics,3,99.41,0.0,55.26,Bank Transfer,False,PROD-012,298.23,0.0,298.23,165.78
+OI-00414,ORD-00414,2025-03-01,CUST-0045,Liam Johnson,West,Wholesale,Notebook,Office Supplies,5,7.22,0.1,4.3,Cash,False,PROD-008,36.1,0.04,36.06,21.5
+OI-00415,ORD-00415,2025-06-23,CUST-0017,Ava Chen,West,Wholesale,Webcam,Electronics,5,94.5,0.15,57.15,PayPal,False,PROD-012,472.5,0.71,471.79,285.75
+OI-00416,ORD-00416,2025-04-28,CUST-0017,Noah Patel,East,Online,Standing Desk,Furniture,2,515.18,0.05,362.04,Cash,False,PROD-010,1030.36,0.52,1029.84,724.08
+OI-00417,ORD-00417,2025-06-25,CUST-0037,Mia Garcia,South,Wholesale,Monitor,Electronics,1,327.04,0.0,179.58,PayPal,False,PROD-006,327.04,0.0,327.04,179.58
+OI-00418,ORD-00418,2025-04-13,CUST-0016,Sofia Kim,East,Online,Mouse,Accessories,5,37.16,0.0,19.49,Credit Card,False,PROD-007,185.8,0.0,185.8,97.45
+OI-00419,ORD-00419,2025-02-10,CUST-0003,Liam Johnson,East,Wholesale,USB-C Hub,Accessories,2,61.06,0.0,40.7,Bank Transfer,False,PROD-011,122.12,0.0,122.12,81.4
+OI-00420,ORD-00420,2025-10-22,CUST-0015,Sofia Kim,South,Online,Desk Chair,Furniture,15,241.91,0.15,138.83,Cash,False,PROD-001,3628.65,5.44,3623.21,2082.45
+OI-00421,ORD-00421,2025-10-04,CUST-0008,Ethan Brown,Central,Retail,Laptop,Electronics,2,1212.65,0.1,658.73,Bank Transfer,False,PROD-005,2425.3,2.43,2422.87,1317.46
+OI-00422,ORD-00422,2025-01-07,CUST-0017,Noah Patel,Central,Retail,USB-C Hub,Accessories,3,52.05,0.0,36.94,PayPal,False,PROD-011,156.15,0.0,156.15,110.82
+OI-00423,ORD-00423,2025-11-10,CUST-0024,Mia Garcia,West,Retail,Standing Desk,Furniture,2,509.86,0.0,362.02,Cash,False,PROD-010,1019.72,0.0,1019.72,724.04
+OI-00424,ORD-00424,2025-03-09,CUST-0036,Liam Johnson,West,Online,Pen Set,Office Supplies,4,12.61,0.1,8.7,PayPal,False,PROD-009,50.44,0.05,50.39,34.8
+OI-00425,ORD-00425,2025-03-18,CUST-0055,Ethan Brown,Central,Wholesale,Webcam,Electronics,1,96.95,0.05,70.09,Bank Transfer,False,PROD-012,96.95,0.05,96.9,70.09
+OI-00426,ORD-00426,2025-06-03,CUST-0004,Noah Patel,East,Retail,Desk Chair,Furniture,3,245.68,0.0,166.4,Credit Card,False,PROD-001,737.04,0.0,737.04,499.2
+OI-00427,ORD-00427,2025-06-21,CUST-0002,Liam Johnson,North,Retail,Desk Chair,Furniture,3,235.06,0.15,137.32,PayPal,False,PROD-001,705.18,1.06,704.12,411.96
+OI-00428,ORD-00428,2025-11-29,CUST-0033,Liam Johnson,West,Online,USB-C Hub,Accessories,10,56.02,0.0,32.51,Cash,False,PROD-011,560.2,0.0,560.2,325.1
+OI-00429,ORD-00429,2025-08-26,CUST-0027,Ethan Brown,Central,Wholesale,USB-C Hub,Accessories,5,61.07,0.05,41.8,Cash,False,PROD-011,305.35,0.15,305.2,209.0
+OI-00430,ORD-00430,2025-02-06,CUST-0018,Sofia Kim,West,Retail,Monitor,Electronics,1,299.4,0.0,186.11,Cash,False,PROD-006,299.4,0.0,299.4,186.11
+OI-00431,ORD-00431,2025-07-05,CUST-0002,Noah Patel,South,Wholesale,Desk Lamp,Furniture,10,49.4,0.0,26.47,Bank Transfer,True,PROD-002,494.0,0.0,494.0,264.7
+OI-00432,ORD-00432,2025-12-25,CUST-0057,Liam Johnson,Central,Online,Desk Lamp,Furniture,1,44.05,0.0,24.86,Credit Card,False,PROD-002,44.05,0.0,44.05,24.86
+OI-00433,ORD-00433,2025-09-26,CUST-0025,Mia Garcia,South,Online,Monitor,Electronics,3,295.32,0.0,243.47,Bank Transfer,False,PROD-006,885.96,0.0,885.96,730.41
+OI-00434,ORD-00434,2025-03-06,CUST-0059,Mia Garcia,West,Retail,Keyboard,Accessories,1,76.19,0.0,44.99,Bank Transfer,False,PROD-004,76.19,0.0,76.19,44.99
+OI-00435,ORD-00435,2025-03-11,CUST-0057,Sofia Kim,West,Wholesale,Desk Lamp,Furniture,3,48.89,0.05,34.07,Bank Transfer,False,PROD-002,146.67,0.07,146.6,102.21
+OI-00436,ORD-00436,2025-09-04,CUST-0010,Mia Garcia,North,Online,Notebook,Office Supplies,1,6.17,0.0,4.0,PayPal,False,PROD-008,6.17,0.0,6.17,4.0
+OI-00437,ORD-00437,2025-08-29,CUST-0001,Liam Johnson,East,Wholesale,Notebook,Office Supplies,8,5.86,0.15,4.12,PayPal,False,PROD-008,46.88,0.07,46.81,32.96
+OI-00438,ORD-00438,2025-10-08,CUST-0046,Ethan Brown,West,Retail,Standing Desk,Furniture,5,489.57,0.0,296.38,PayPal,False,PROD-010,2447.85,0.0,2447.85,1481.9
+OI-00439,ORD-00439,2025-08-05,CUST-0044,Mia Garcia,East,Wholesale,USB-C Hub,Accessories,4,52.4,0.15,39.94,Bank Transfer,False,PROD-011,209.6,0.31,209.29,159.76
+OI-00440,ORD-00440,2025-02-05,CUST-0045,Sofia Kim,West,Online,Keyboard,Accessories,1,69.75,0.05,47.01,Bank Transfer,False,PROD-004,69.75,0.03,69.72,47.01
+OI-00441,ORD-00441,2025-01-26,CUST-0029,Ethan Brown,North,Online,Notebook,Office Supplies,10,5.88,0.0,3.48,Credit Card,False,PROD-008,58.8,0.0,58.8,34.8
+OI-00442,ORD-00442,2025-09-10,CUST-0030,Ethan Brown,North,Retail,Mouse,Accessories,2,34.13,0.1,27.28,Credit Card,False,PROD-007,68.26,0.07,68.19,54.56
+OI-00443,ORD-00443,2025-03-16,CUST-0058,Mia Garcia,West,Online,Laptop,Electronics,2,1150.36,0.05,661.02,Credit Card,True,PROD-005,2300.72,1.15,2299.57,1322.04
+OI-00444,ORD-00444,2025-05-08,CUST-0030,Ethan Brown,North,Wholesale,Headphones,Electronics,2,155.1,0.1,73.86,PayPal,False,PROD-003,310.2,0.31,309.89,147.72
+OI-00445,ORD-00445,2025-12-15,CUST-0036,Sofia Kim,North,Retail,Desk Chair,Furniture,1,265.43,0.1,170.05,Cash,False,PROD-001,265.43,0.27,265.16,170.05
+OI-00446,ORD-00446,2025-04-12,CUST-0041,Liam Johnson,East,Online,Standing Desk,Furniture,5,569.53,0.0,276.44,PayPal,False,PROD-010,2847.65,0.0,2847.65,1382.2
+OI-00447,ORD-00447,2025-10-27,CUST-0045,Liam Johnson,Central,Online,Monitor,Electronics,1,315.86,0.2,212.06,Bank Transfer,False,PROD-006,315.86,0.63,315.23,212.06
+OI-00448,ORD-00448,2025-05-08,CUST-0049,Ethan Brown,North,Online,Keyboard,Accessories,3,75.75,0.0,57.86,Bank Transfer,False,PROD-004,227.25,0.0,227.25,173.58
+OI-00449,ORD-00449,2025-12-26,CUST-0051,Ethan Brown,East,Retail,Notebook,Office Supplies,1,6.98,0.0,5.04,PayPal,False,PROD-008,6.98,0.0,6.98,5.04
+OI-00450,ORD-00450,2025-07-13,CUST-0036,Mia Garcia,Central,Wholesale,Standing Desk,Furniture,1,550.87,0.0,362.88,Cash,False,PROD-010,550.87,0.0,550.87,362.88
+OI-00451,ORD-00451,2025-04-06,CUST-0059,Sofia Kim,South,Online,Notebook,Office Supplies,4,6.35,0.0,4.76,PayPal,False,PROD-008,25.4,0.0,25.4,19.04
+OI-00452,ORD-00452,2025-05-15,CUST-0012,Ava Chen,Central,Retail,Notebook,Office Supplies,1,6.37,0.05,3.94,PayPal,False,PROD-008,6.37,0.0,6.37,3.94
+OI-00453,ORD-00453,2025-02-02,CUST-0050,Sofia Kim,South,Wholesale,USB-C Hub,Accessories,4,61.2,0.0,38.02,Bank Transfer,False,PROD-011,244.8,0.0,244.8,152.08
+OI-00454,ORD-00454,2025-11-25,CUST-0009,Noah Patel,North,Online,Standing Desk,Furniture,3,480.64,0.0,381.6,Credit Card,False,PROD-010,1441.92,0.0,1441.92,1144.8
+OI-00455,ORD-00455,2025-02-20,CUST-0045,Sofia Kim,East,Online,Laptop,Electronics,5,1230.75,0.1,776.68,Bank Transfer,False,PROD-005,6153.75,6.15,6147.6,3883.4
+OI-00456,ORD-00456,2025-02-06,CUST-0006,Liam Johnson,North,Retail,Laptop,Electronics,1,1325.58,0.05,898.96,Cash,False,PROD-005,1325.58,0.66,1324.92,898.96
+OI-00457,ORD-00457,2025-12-29,CUST-0020,Ava Chen,South,Wholesale,Laptop,Electronics,1,1297.44,0.0,623.65,Credit Card,False,PROD-005,1297.44,0.0,1297.44,623.65
+OI-00458,ORD-00458,2025-04-29,CUST-0012,Sofia Kim,Central,Retail,Notebook,Office Supplies,1,6.4,0.1,4.29,Credit Card,False,PROD-008,6.4,0.01,6.39,4.29
+OI-00459,ORD-00459,2025-10-23,CUST-0051,Noah Patel,Central,Retail,Standing Desk,Furniture,4,545.16,0.0,275.16,Bank Transfer,False,PROD-010,2180.64,0.0,2180.64,1100.64
+OI-00460,ORD-00460,2025-10-01,CUST-0021,Mia Garcia,West,Wholesale,Pen Set,Office Supplies,2,11.97,0.0,9.33,Cash,False,PROD-009,23.94,0.0,23.94,18.66
+OI-00461,ORD-00461,2025-06-15,CUST-0048,Mia Garcia,East,Retail,Pen Set,Office Supplies,3,11.44,0.0,7.85,Cash,True,PROD-009,34.32,0.0,34.32,23.55
+OI-00462,ORD-00462,2025-01-01,CUST-0057,Mia Garcia,North,Retail,Desk Lamp,Furniture,2,43.57,0.0,25.82,PayPal,False,PROD-002,87.14,0.0,87.14,51.64
+OI-00463,ORD-00463,2025-06-11,CUST-0033,Sofia Kim,Central,Wholesale,Laptop,Electronics,8,1283.68,0.1,908.82,PayPal,False,PROD-005,10269.44,10.27,10259.17,7270.56
+OI-00464,ORD-00464,2025-08-24,CUST-0017,Mia Garcia,North,Wholesale,Standing Desk,Furniture,1,485.86,0.15,296.38,Cash,False,PROD-010,485.86,0.73,485.13,296.38
+OI-00465,ORD-00465,2025-04-22,CUST-0058,Ethan Brown,Central,Online,Desk Lamp,Furniture,2,44.02,0.05,30.56,Bank Transfer,False,PROD-002,88.04,0.04,88.0,61.12
+OI-00466,ORD-00466,2025-10-23,CUST-0053,Liam Johnson,West,Online,Headphones,Electronics,1,133.0,0.1,86.63,PayPal,False,PROD-003,133.0,0.13,132.87,86.63
+OI-00467,ORD-00467,2025-11-05,CUST-0021,Sofia Kim,Central,Online,Laptop,Electronics,3,1247.35,0.0,776.19,Bank Transfer,False,PROD-005,3742.05,0.0,3742.05,2328.57
+OI-00468,ORD-00468,2025-04-24,CUST-0039,Sofia Kim,Central,Online,Keyboard,Accessories,4,68.33,0.0,46.86,PayPal,False,PROD-004,273.32,0.0,273.32,187.44
+OI-00469,ORD-00469,2025-07-21,CUST-0026,Mia Garcia,North,Retail,Keyboard,Accessories,1,69.68,0.05,38.54,Cash,False,PROD-004,69.68,0.03,69.65,38.54
+OI-00470,ORD-00470,2025-03-08,CUST-0036,Sofia Kim,Central,Online,Keyboard,Accessories,1,75.44,0.0,49.5,PayPal,False,PROD-004,75.44,0.0,75.44,49.5
+OI-00471,ORD-00471,2025-08-09,CUST-0024,Mia Garcia,South,Retail,Standing Desk,Furniture,3,546.33,0.0,320.22,Bank Transfer,False,PROD-010,1638.99,0.0,1638.99,960.66
+OI-00472,ORD-00472,2025-01-13,CUST-0040,Noah Patel,West,Online,Desk Chair,Furniture,2,224.94,0.1,173.95,PayPal,False,PROD-001,449.88,0.45,449.43,347.9
+OI-00473,ORD-00473,2025-07-11,CUST-0040,Noah Patel,East,Online,Keyboard,Accessories,5,80.0,0.0,38.65,Bank Transfer,False,PROD-004,400.0,0.0,400.0,193.25
+OI-00474,ORD-00474,2025-02-26,CUST-0014,Sofia Kim,Central,Retail,Desk Chair,Furniture,1,239.76,0.0,156.15,Cash,False,PROD-001,239.76,0.0,239.76,156.15
+OI-00475,ORD-00475,2025-03-14,CUST-0003,Mia Garcia,South,Online,Desk Lamp,Furniture,1,50.58,0.05,32.92,Bank Transfer,False,PROD-002,50.58,0.03,50.55,32.92
+OI-00476,ORD-00476,2025-12-23,CUST-0043,Mia Garcia,East,Online,Pen Set,Office Supplies,2,11.52,0.15,6.22,Credit Card,False,PROD-009,23.04,0.03,23.01,12.44
+OI-00477,ORD-00477,2025-11-29,CUST-0021,Liam Johnson,Central,Wholesale,Headphones,Electronics,2,137.87,0.2,76.54,Credit Card,False,PROD-003,275.74,0.55,275.19,153.08
+OI-00478,ORD-00478,2025-09-14,CUST-0020,Mia Garcia,West,Retail,Webcam,Electronics,4,92.1,0.0,68.24,PayPal,False,PROD-012,368.4,0.0,368.4,272.96
+OI-00479,ORD-00479,2025-12-17,CUST-0018,Ava Chen,East,Retail,Standing Desk,Furniture,2,508.66,0.2,402.48,Credit Card,True,PROD-010,1017.32,2.03,1015.29,804.96
+OI-00480,ORD-00480,2025-05-24,CUST-0025,Sofia Kim,Central,Wholesale,Mouse,Accessories,5,32.67,0.1,18.36,PayPal,False,PROD-007,163.35,0.16,163.19,91.8
+OI-00481,ORD-00481,2025-10-21,CUST-0009,Noah Patel,South,Wholesale,Keyboard,Accessories,2,74.54,0.05,46.93,PayPal,False,PROD-004,149.08,0.07,149.01,93.86
+OI-00482,ORD-00482,2025-06-08,CUST-0050,Noah Patel,Central,Online,Desk Lamp,Furniture,3,50.65,0.0,37.38,Bank Transfer,False,PROD-002,151.95,0.0,151.95,112.14
+OI-00483,ORD-00483,2025-09-30,CUST-0049,Mia Garcia,West,Retail,Desk Lamp,Furniture,2,44.45,0.15,33.77,Bank Transfer,False,PROD-002,88.9,0.13,88.77,67.54
+OI-00484,ORD-00484,2025-11-23,CUST-0049,Sofia Kim,Central,Retail,Desk Lamp,Furniture,4,46.09,0.0,26.48,PayPal,False,PROD-002,184.36,0.0,184.36,105.92
+OI-00485,ORD-00485,2025-04-29,CUST-0055,Sofia Kim,West,Wholesale,USB-C Hub,Accessories,1,49.82,0.1,29.56,Bank Transfer,False,PROD-011,49.82,0.05,49.77,29.56
+OI-00486,ORD-00486,2025-07-18,CUST-0001,Mia Garcia,West,Online,Webcam,Electronics,1,90.38,0.0,55.3,PayPal,False,PROD-012,90.38,0.0,90.38,55.3
+OI-00487,ORD-00487,2025-02-03,CUST-0021,Liam Johnson,South,Retail,Keyboard,Accessories,15,82.8,0.15,47.79,Cash,False,PROD-004,1242.0,1.86,1240.14,716.85
+OI-00488,ORD-00488,2025-11-08,CUST-0037,Sofia Kim,Central,Wholesale,Desk Lamp,Furniture,4,51.9,0.0,36.62,Credit Card,False,PROD-002,207.6,0.0,207.6,146.48
+OI-00489,ORD-00489,2025-08-20,CUST-0026,Ethan Brown,North,Wholesale,Webcam,Electronics,1,97.37,0.2,58.07,Cash,False,PROD-012,97.37,0.19,97.18,58.07
+OI-00490,ORD-00490,2025-11-19,CUST-0019,Liam Johnson,South,Retail,Laptop,Electronics,2,1130.12,0.15,859.96,Bank Transfer,False,PROD-005,2260.24,3.39,2256.85,1719.92
+OI-00491,ORD-00491,2025-01-28,CUST-0047,Sofia Kim,North,Online,Desk Lamp,Furniture,1,48.66,0.1,30.07,PayPal,False,PROD-002,48.66,0.05,48.61,30.07
+OI-00492,ORD-00492,2025-06-15,CUST-0057,Liam Johnson,North,Retail,Webcam,Electronics,2,81.49,0.15,67.57,Bank Transfer,False,PROD-012,162.98,0.24,162.74,135.14
+OI-00493,ORD-00493,2025-12-31,CUST-0024,Ava Chen,Central,Wholesale,Keyboard,Accessories,1,79.35,0.0,46.94,Cash,False,PROD-004,79.35,0.0,79.35,46.94
+OI-00494,ORD-00494,2025-09-19,CUST-0059,Mia Garcia,Central,Wholesale,Pen Set,Office Supplies,2,13.31,0.0,8.58,PayPal,False,PROD-009,26.62,0.0,26.62,17.16
+OI-00495,ORD-00495,2025-03-16,CUST-0029,Mia Garcia,South,Online,Keyboard,Accessories,1,80.19,0.0,52.83,PayPal,True,PROD-004,80.19,0.0,80.19,52.83
+OI-00496,ORD-00496,2025-01-02,CUST-0052,Ava Chen,Central,Retail,Pen Set,Office Supplies,1,12.82,0.05,7.68,PayPal,False,PROD-009,12.82,0.01,12.81,7.68
+OI-00497,ORD-00497,2025-12-04,CUST-0057,Sofia Kim,East,Wholesale,Webcam,Electronics,2,89.98,0.05,45.17,PayPal,False,PROD-012,179.96,0.09,179.87,90.34
+OI-00498,ORD-00498,2025-03-17,CUST-0054,Sofia Kim,East,Retail,Laptop,Electronics,1,1252.47,0.15,824.11,Credit Card,False,PROD-005,1252.47,1.88,1250.59,824.11
+OI-00499,ORD-00499,2025-08-02,CUST-0037,Sofia Kim,South,Retail,Keyboard,Accessories,2,70.16,0.1,52.2,Bank Transfer,False,PROD-004,140.32,0.14,140.18,104.4
+OI-00500,ORD-00500,2025-02-17,CUST-0054,Sofia Kim,North,Retail,Desk Chair,Furniture,5,233.04,0.1,170.97,Cash,False,PROD-001,1165.2,1.17,1164.03,854.85
+OI-00501,ORD-00013,2025-09-17,CUST-0060,Sofia Kim,North,Wholesale,Pen Set,Office Supplies,2,11.33,0.0,9.2,Bank Transfer,False,PROD-009,22.66,0.0,22.66,18.4
+OI-00502,ORD-00046,2025-05-21,CUST-0035,Ava Chen,South,Online,Webcam,Electronics,2,82.53,0.0,53.06,PayPal,False,PROD-012,165.06,0.0,165.06,106.12
+OI-00503,ORD-00102,2025-10-04,CUST-0023,Noah Patel,Central,Retail,Desk Chair,Furniture,1,258.16,0.15,128.86,Credit Card,False,PROD-001,258.16,0.39,257.77,128.86

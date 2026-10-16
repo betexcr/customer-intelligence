@@ -1,0 +1,61 @@
+customer_id,customer_name,email,city,state,customer_segment,acquisition_channel,loyalty_tier,signup_date
+CUST-0001,Morgan Rodriguez,customer001@example.com,Seattle,WA,Consumer,Referral,Silver,2022-08-13
+CUST-0002,Rowan Johnson,customer002@example.com,Miami,FL,Consumer,Paid Search,Gold,2022-07-12
+CUST-0003,Emerson Rodriguez,customer003@example.com,Atlanta,GA,Enterprise,Referral,Gold,2024-10-20
+CUST-0004,Taylor Davis,customer004@example.com,Miami,FL,Small Business,Social Media,Gold,2023-04-01
+CUST-0005,Cameron Jones,customer005@example.com,Miami,FL,Small Business,Referral,Silver,2025-02-03
+CUST-0006,Jamie Williams,customer006@example.com,Dallas,TX,Consumer,Paid Search,Silver,2025-12-18
+CUST-0007,Parker Taylor,customer007@example.com,Miami,FL,Consumer,Website,Silver,2025-07-27
+CUST-0008,Taylor Garcia,customer008@example.com,Austin,TX,Consumer,Social Media,Gold,2022-03-08
+CUST-0009,Hayden Jones,customer009@example.com,Dallas,TX,Small Business,Paid Search,Bronze,2025-02-16
+CUST-0010,Morgan Johnson,customer010@example.com,Austin,TX,Enterprise,Social Media,Silver,2022-11-07
+CUST-0011,Jordan Brown,customer011@example.com,Chicago,IL,Consumer,Social Media,Bronze,2023-07-01
+CUST-0012,Kendall Wilson,customer012@example.com,Atlanta,GA,Consumer,Referral,Bronze,2023-03-17
+CUST-0013,Reese Williams,customer013@example.com,Miami,FL,Small Business,Website,Bronze,2025-05-19
+CUST-0014,Cameron Brown,customer014@example.com,Atlanta,GA,Consumer,Paid Search,Bronze,2025-07-16
+CUST-0015,Riley Davis,customer015@example.com,Atlanta,GA,Consumer,Event,Silver,2022-05-12
+CUST-0016,Taylor Martinez,customer016@example.com,Dallas,TX,Consumer,Event,Gold,2024-09-03
+CUST-0017,Finley Miller,customer017@example.com,Chicago,IL,Small Business,Paid Search,Silver,2022-01-07
+CUST-0018,Jordan Garcia,customer018@example.com,Dallas,TX,Consumer,Social Media,Silver,2024-02-01
+CUST-0019,Parker Thomas,customer019@example.com,Phoenix,AZ,Small Business,Social Media,Bronze,2022-06-17
+CUST-0020,Jamie Anderson,customer020@example.com,Dallas,TX,Consumer,Paid Search,Silver,2025-03-24
+CUST-0021,Logan Smith,customer021@example.com,Denver,CO,Small Business,Social Media,Silver,2025-04-04
+CUST-0022,Taylor Davis,customer022@example.com,Phoenix,AZ,Consumer,Paid Search,Gold,2023-12-21
+CUST-0023,Drew Brown,customer023@example.com,Denver,CO,Consumer,Social Media,Gold,2023-05-25
+CUST-0024,Finley Miller,customer024@example.com,Austin,TX,Consumer,Paid Search,Gold,2023-12-05
+CUST-0025,Skyler Jones,customer025@example.com,Phoenix,AZ,Consumer,Event,Silver,2022-04-06
+CUST-0026,Jordan Wilson,customer026@example.com,Miami,FL,Enterprise,Referral,Gold,2022-05-27
+CUST-0027,Riley Brown,customer027@example.com,Atlanta,GA,Small Business,Event,Gold,2022-07-18
+CUST-0028,Reese Garcia,customer028@example.com,Denver,CO,Consumer,Referral,Platinum,2023-05-19
+CUST-0029,Jamie Miller,customer029@example.com,Austin,TX,Consumer,Event,Silver,2023-01-04
+CUST-0030,Hayden Taylor,customer030@example.com,Miami,FL,Consumer,Website,Bronze,2023-05-10
+CUST-0031,Cameron Martinez,customer031@example.com,Austin,TX,Consumer,Social Media,Bronze,2024-11-11
+CUST-0032,Logan Garcia,customer032@example.com,Seattle,WA,Small Business,Website,Silver,2022-02-28
+CUST-0033,Hayden Williams,customer033@example.com,Seattle,WA,Small Business,Referral,Silver,2025-01-20
+CUST-0034,Finley Rodriguez,customer034@example.com,Seattle,WA,Consumer,Social Media,Gold,2022-03-09
+CUST-0035,Avery Wilson,customer035@example.com,Chicago,IL,Consumer,Referral,Bronze,2024-05-20
+CUST-0036,Cameron Rodriguez,customer036@example.com,Atlanta,GA,Small Business,Event,Platinum,2024-10-13
+CUST-0037,Skyler Miller,customer037@example.com,Miami,FL,Consumer,Event,Bronze,2024-04-24
+CUST-0038,Morgan Williams,customer038@example.com,Phoenix,AZ,Consumer,Referral,Bronze,2024-01-07
+CUST-0039,Finley Anderson,customer039@example.com,Chicago,IL,Consumer,Social Media,Bronze,2024-07-08
+CUST-0040,Drew Smith,customer040@example.com,Atlanta,GA,Consumer,Paid Search,Silver,2024-07-12
+CUST-0041,Jamie Anderson,customer041@example.com,Seattle,WA,Small Business,Event,Silver,2024-07-09
+CUST-0042,Jamie Wilson,customer042@example.com,Austin,TX,Consumer,Referral,Silver,2023-06-19
+CUST-0043,Logan Davis,customer043@example.com,Denver,CO,Consumer,Paid Search,Bronze,2023-03-16
+CUST-0044,Riley Thomas,customer044@example.com,Austin,TX,Consumer,Paid Search,Bronze,2024-02-06
+CUST-0045,Finley Anderson,customer045@example.com,Chicago,IL,Enterprise,Event,Silver,2025-08-18
+CUST-0046,Parker Martinez,customer046@example.com,Seattle,WA,Consumer,Event,Bronze,2025-12-13
+CUST-0047,Logan Williams,customer047@example.com,Denver,CO,Consumer,Event,Gold,2023-07-21
+CUST-0048,Emerson Thomas,customer048@example.com,Dallas,TX,Consumer,Paid Search,Bronze,2024-11-24
+CUST-0049,Rowan Garcia,customer049@example.com,Atlanta,GA,Small Business,Referral,Gold,2025-08-26
+CUST-0050,Hayden Garcia,customer050@example.com,Dallas,TX,Enterprise,Website,Bronze,2025-08-11
+CUST-0051,Finley Wilson,customer051@example.com,Denver,CO,Consumer,Event,Bronze,2025-12-04
+CUST-0052,Drew Miller,customer052@example.com,Seattle,WA,Consumer,Social Media,Silver,2025-12-13
+CUST-0053,Reese Smith,customer053@example.com,Phoenix,AZ,Consumer,Website,Gold,2025-01-13
+CUST-0054,Alex Thomas,customer054@example.com,Chicago,IL,Enterprise,Website,Silver,2022-02-09
+CUST-0055,Riley Smith,customer055@example.com,Dallas,TX,Consumer,Paid Search,Silver,2023-06-17
+CUST-0056,Taylor Thomas,customer056@example.com,Miami,FL,Small Business,Referral,Silver,2025-12-28
+CUST-0057,Cameron Jones,customer057@example.com,Dallas,TX,Small Business,Website,Platinum,2024-11-23
+CUST-0058,Casey Thomas,customer058@example.com,Austin,TX,Consumer,Referral,Bronze,2025-03-10
+CUST-0059,Kendall Miller,customer059@example.com,Denver,CO,Consumer,Paid Search,Platinum,2022-02-06
+CUST-0060,Taylor Miller,customer060@example.com,Chicago,IL,Small Business,Referral,Bronze,2025-06-28

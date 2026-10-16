@@ -1,0 +1,321 @@
+feedback_id,order_id,customer_id,feedback_date,product,category,rating,sentiment,feedback_text,shipping_status,shipping_method,resolution_status,product_id
+FDB-00001,ORD-00269,CUST-0004,2025-05-05,Laptop,Product Satisfaction,4,Positive,Very happy with the Laptop; good value for the price.,Shipped,Same Day,Not Required,PROD-005
+FDB-00002,ORD-00074,CUST-0019,2025-06-24,Standing Desk,Product Quality,2,Negative,"The Standing Desk did not meet expectations, and support has not fully resolved the issue.",Delivered,Express,Not Required,PROD-010
+FDB-00003,ORD-00290,CUST-0002,2025-10-29,Notebook,General Experience,3,Neutral,"The Notebook works, although setup instructions could be clearer.",Delivered,Same Day,Resolved,PROD-008
+FDB-00004,ORD-00156,CUST-0052,2025-03-16,Mouse,Value,5,Positive,The Mouse works exactly as expected. Ordering was straightforward.,Delivered,Express,Resolved,PROD-007
+FDB-00005,ORD-00105,CUST-0021,2025-08-14,USB-C Hub,Product Quality,4,Positive,The USB-C Hub arrived in good condition and performs well.,Shipped,Economy,Not Required,PROD-011
+FDB-00006,ORD-00281,CUST-0029,2025-02-09,Mouse,Shipping,2,Negative,The Mouse arrived later than expected. Please improve shipping updates.,Delivered,Express,Open,PROD-007
+FDB-00007,ORD-00393,CUST-0059,2025-07-24,Standing Desk,Product Satisfaction,4,Positive,The Standing Desk is useful and the quality feels solid.,Processing,Economy,Not Required,PROD-010
+FDB-00008,ORD-00125,CUST-0021,2025-10-23,Desk Lamp,Return,3,Neutral,The Desk Lamp was returned. I would like clearer updates about the return status.,Delivered,Standard,In Progress,PROD-002
+FDB-00009,ORD-00069,CUST-0005,2025-08-31,Desk Chair,Shipping,3,Neutral,"The Desk Chair was useful, but delivery took longer than expected.",Delivered,Express,Resolved,PROD-001
+FDB-00010,ORD-00245,CUST-0053,2025-08-25,Pen Set,Customer Support,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Shipped,Standard,In Progress,PROD-009
+FDB-00011,ORD-00010,CUST-0039,2025-02-28,Laptop,Shipping,2,Negative,"The Laptop was useful, but delivery took longer than expected.",Delivered,Express,Resolved,PROD-005
+FDB-00012,ORD-00196,CUST-0025,2025-03-15,USB-C Hub,General Experience,3,Neutral,"The USB-C Hub works, although setup instructions could be clearer.",Delivered,Economy,In Progress,PROD-011
+FDB-00013,ORD-00305,CUST-0019,2025-12-16,USB-C Hub,Shipping,2,Negative,"Tracking updates for the USB-C Hub were unclear, and delivery communication could improve.",Delivered,Same Day,Resolved,PROD-011
+FDB-00014,ORD-00085,CUST-0048,2025-02-01,Pen Set,Product Satisfaction,4,Positive,Very happy with the Pen Set; good value for the price.,Delivered,Express,Resolved,PROD-009
+FDB-00015,ORD-00374,CUST-0014,2025-04-03,Notebook,Product Quality,5,Positive,Very happy with the Notebook; good value for the price.,Delivered,Economy,In Progress,PROD-008
+FDB-00016,ORD-00391,CUST-0025,2025-05-19,Standing Desk,Return,3,Neutral,The Standing Desk was returned. I would like clearer updates about the return status.,Processing,Standard,Open,PROD-010
+FDB-00017,ORD-00499,CUST-0037,2025-08-12,Keyboard,Instructions,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Economy,In Progress,PROD-004
+FDB-00018,ORD-00031,CUST-0009,2026-01-03,Keyboard,Product Quality,5,Positive,The Keyboard works exactly as expected. Ordering was straightforward.,Returned,Same Day,Resolved,PROD-004
+FDB-00019,ORD-00318,CUST-0012,2026-01-02,Notebook,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Same Day,Open,PROD-008
+FDB-00020,ORD-00408,CUST-0006,2025-11-30,Laptop,Product Quality,5,Positive,Great experience with this order. The Laptop met our expectations.,Shipped,Economy,In Progress,PROD-005
+FDB-00021,ORD-00494,CUST-0059,2025-10-02,Pen Set,Product Quality,1,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Economy,Resolved,PROD-009
+FDB-00022,ORD-00495,CUST-0029,2025-03-23,Keyboard,Return,3,Neutral,The Keyboard was returned. I would like clearer updates about the return status.,Delivered,Express,Open,PROD-004
+FDB-00023,ORD-00226,CUST-0020,2025-10-19,Mouse,Shipping,1,Negative,The Mouse arrived later than expected. Please improve shipping updates.,Returned,Same Day,Resolved,PROD-007
+FDB-00024,ORD-00228,CUST-0056,2025-03-16,Desk Chair,General Experience,3,Neutral,"The Desk Chair is acceptable, but the overall experience was average.",Delivered,Express,Resolved,PROD-001
+FDB-00025,ORD-00077,CUST-0020,2025-09-15,Monitor,Product Quality,4,Positive,The Monitor arrived in good condition and performs well.,Delivered,Standard,Resolved,PROD-006
+FDB-00026,ORD-00465,CUST-0058,2025-04-28,Desk Lamp,Product Quality,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Returned,Express,Not Required,PROD-002
+FDB-00027,ORD-00474,CUST-0014,2025-03-08,Desk Chair,Customer Support,1,Negative,"The Desk Chair did not meet expectations, and support has not fully resolved the issue.",Delivered,Standard,Open,PROD-001
+FDB-00028,ORD-00403,CUST-0035,2025-05-14,Webcam,Product Satisfaction,4,Positive,The Webcam is useful and the quality feels solid.,Delivered,Same Day,Resolved,PROD-012
+FDB-00029,ORD-00102,CUST-0023,2025-10-11,Desk Chair,Product Quality,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Standard,Resolved,PROD-001
+FDB-00030,ORD-00336,CUST-0059,2025-12-29,Keyboard,Value,1,Negative,The product quality was disappointing for the price paid.,Delivered,Economy,In Progress,PROD-004
+FDB-00031,ORD-00297,CUST-0001,2025-10-31,Keyboard,Value,5,Positive,The Keyboard works exactly as expected. Ordering was straightforward.,Delivered,Same Day,Not Required,PROD-004
+FDB-00032,ORD-00223,CUST-0025,2025-02-09,Monitor,Product Quality,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Standard,Open,PROD-006
+FDB-00033,ORD-00475,CUST-0003,2025-03-18,Desk Lamp,Product Quality,4,Positive,The Desk Lamp arrived in good condition and performs well.,Processing,Same Day,Not Required,PROD-002
+FDB-00034,ORD-00174,CUST-0044,2025-04-02,Notebook,Value,4,Positive,The Notebook is useful and the quality feels solid.,Shipped,Standard,In Progress,PROD-008
+FDB-00035,ORD-00003,CUST-0022,2025-01-10,Keyboard,Product Quality,1,Negative,"The Keyboard did not meet expectations, and support has not fully resolved the issue.",Shipped,Standard,Resolved,PROD-004
+FDB-00036,ORD-00335,CUST-0019,2025-03-06,Headphones,Value,4,Positive,The Headphones works exactly as expected. Ordering was straightforward.,Processing,Same Day,Not Required,PROD-003
+FDB-00037,ORD-00273,CUST-0025,2025-09-21,Laptop,Product Quality,1,Negative,There was a problem with the Laptop. I would appreciate a follow-up.,Delivered,Economy,In Progress,PROD-005
+FDB-00038,ORD-00071,CUST-0029,2025-09-11,Desk Lamp,Product Quality,4,Positive,Great experience with this order. The Desk Lamp met our expectations.,Delivered,Economy,Resolved,PROD-002
+FDB-00039,ORD-00211,CUST-0011,2025-09-22,Desk Lamp,Value,4,Positive,The Desk Lamp works exactly as expected. Ordering was straightforward.,Delivered,Same Day,Resolved,PROD-002
+FDB-00040,ORD-00064,CUST-0045,2025-01-11,Desk Lamp,Product Satisfaction,4,Positive,Great experience with this order. The Desk Lamp met our expectations.,Delivered,Economy,Resolved,PROD-002
+FDB-00041,ORD-00348,CUST-0044,2025-08-04,Webcam,Return,2,Negative,I returned the Webcam because it did not meet my needs. The return process could be easier.,Shipped,Express,Resolved,PROD-012
+FDB-00042,ORD-00094,CUST-0026,2025-09-05,Monitor,Customer Support,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Same Day,Resolved,PROD-006
+FDB-00043,ORD-00489,CUST-0026,2025-08-30,Webcam,Shipping,2,Negative,"The Webcam was useful, but delivery took longer than expected.",Delivered,Same Day,Resolved,PROD-012
+FDB-00044,ORD-00186,CUST-0022,2025-06-28,Keyboard,Product Satisfaction,4,Positive,The Keyboard works exactly as expected. Ordering was straightforward.,Delivered,Economy,In Progress,PROD-004
+FDB-00045,ORD-00034,CUST-0030,2025-02-27,Headphones,Product Quality,4,Positive,Very happy with the Headphones; good value for the price.,Delivered,Express,Not Required,PROD-003
+FDB-00046,ORD-00078,CUST-0019,2025-03-10,Webcam,Return,3,Neutral,I returned the Webcam because it did not meet my needs. The return process could be easier.,Delivered,Standard,In Progress,PROD-012
+FDB-00047,ORD-00001,CUST-0044,2025-11-25,Monitor,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Express,In Progress,PROD-006
+FDB-00048,ORD-00012,CUST-0012,2025-09-02,Laptop,Value,5,Positive,The Laptop arrived in good condition and performs well.,Delivered,Same Day,Not Required,PROD-005
+FDB-00049,ORD-00311,CUST-0005,2025-12-01,Keyboard,Product Quality,5,Positive,Great experience with this order. The Keyboard met our expectations.,Delivered,Economy,Not Required,PROD-004
+FDB-00050,ORD-00023,CUST-0031,2025-02-09,Pen Set,Return,1,Negative,I returned the Pen Set because it did not meet my needs. The return process could be easier.,Delivered,Standard,In Progress,PROD-009
+FDB-00051,ORD-00073,CUST-0028,2025-04-02,Webcam,Product Quality,5,Positive,Very happy with the Webcam; good value for the price.,Shipped,Express,Resolved,PROD-012
+FDB-00052,ORD-00183,CUST-0015,2025-06-07,Standing Desk,Product Quality,5,Positive,The Standing Desk is useful and the quality feels solid.,Processing,Standard,In Progress,PROD-010
+FDB-00053,ORD-00132,CUST-0009,2025-10-15,Desk Lamp,Value,1,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Standard,Open,PROD-002
+FDB-00054,ORD-00413,CUST-0007,2025-04-12,Webcam,Shipping,1,Negative,"Tracking updates for the Webcam were unclear, and delivery communication could improve.",Shipped,Economy,Open,PROD-012
+FDB-00055,ORD-00195,CUST-0060,2025-07-07,Desk Lamp,Product Satisfaction,4,Positive,The Desk Lamp arrived in good condition and performs well.,Delivered,Same Day,Not Required,PROD-002
+FDB-00056,ORD-00056,CUST-0024,2025-12-12,Standing Desk,Product Satisfaction,4,Positive,The Standing Desk works exactly as expected. Ordering was straightforward.,Delivered,Same Day,In Progress,PROD-010
+FDB-00057,ORD-00149,CUST-0056,2025-11-14,Desk Lamp,Product Quality,5,Positive,Very happy with the Desk Lamp; good value for the price.,Processing,Express,Resolved,PROD-002
+FDB-00058,ORD-00019,CUST-0042,2025-08-21,Standing Desk,Product Quality,3,Neutral,"The Standing Desk is acceptable, but the overall experience was average.",Returned,Economy,Resolved,PROD-010
+FDB-00059,ORD-00429,CUST-0027,2025-08-31,USB-C Hub,Product Satisfaction,4,Positive,Great experience with this order. The USB-C Hub met our expectations.,Delivered,Express,Not Required,PROD-011
+FDB-00060,ORD-00079,CUST-0057,2025-05-16,Webcam,Product Quality,2,Negative,There was a problem with the Webcam. I would appreciate a follow-up.,Delivered,Economy,Resolved,PROD-012
+FDB-00061,ORD-00498,CUST-0054,2025-03-29,Laptop,Shipping,3,Neutral,"Tracking updates for the Laptop were unclear, and delivery communication could improve.",Delivered,Economy,Resolved,PROD-005
+FDB-00062,ORD-00412,CUST-0038,2026-01-09,Monitor,Shipping,1,Negative,"The Monitor was useful, but delivery took longer than expected.",Shipped,Economy,Resolved,PROD-006
+FDB-00063,ORD-00325,CUST-0049,2025-05-20,USB-C Hub,Shipping,2,Negative,"The USB-C Hub was useful, but delivery took longer than expected.",Processing,Same Day,Open,PROD-011
+FDB-00064,ORD-00487,CUST-0021,2025-02-15,Keyboard,Value,4,Positive,The Keyboard arrived in good condition and performs well.,Delivered,Express,Not Required,PROD-004
+FDB-00065,ORD-00080,CUST-0043,2025-10-01,Desk Chair,Shipping,1,Negative,"Tracking updates for the Desk Chair were unclear, and delivery communication could improve.",Delivered,Standard,Open,PROD-001
+FDB-00066,ORD-00040,CUST-0030,2025-01-08,Desk Chair,Product Quality,4,Positive,The Desk Chair works exactly as expected. Ordering was straightforward.,Delivered,Express,In Progress,PROD-001
+FDB-00067,ORD-00455,CUST-0045,2025-03-06,Laptop,Customer Support,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Shipped,Express,In Progress,PROD-005
+FDB-00068,ORD-00047,CUST-0004,2025-03-25,Desk Lamp,Product Quality,2,Negative,There was a problem with the Desk Lamp. I would appreciate a follow-up.,Delivered,Express,In Progress,PROD-002
+FDB-00069,ORD-00267,CUST-0026,2025-07-30,Notebook,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Economy,Not Required,PROD-008
+FDB-00070,ORD-00394,CUST-0029,2025-06-30,Webcam,Customer Support,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Economy,Resolved,PROD-012
+FDB-00071,ORD-00354,CUST-0029,2025-06-28,Notebook,Product Quality,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Standard,Resolved,PROD-008
+FDB-00072,ORD-00209,CUST-0015,2025-09-09,Standing Desk,Value,1,Negative,The product quality was disappointing for the price paid.,Delivered,Same Day,In Progress,PROD-010
+FDB-00073,ORD-00279,CUST-0053,2025-07-15,Webcam,General Experience,3,Neutral,"The Webcam is acceptable, but the overall experience was average.",Delivered,Standard,Resolved,PROD-012
+FDB-00074,ORD-00292,CUST-0038,2025-04-08,Keyboard,Instructions,3,Neutral,"The Keyboard meets the basic requirements, with a few minor issues.",Delivered,Standard,Resolved,PROD-004
+FDB-00075,ORD-00319,CUST-0041,2025-02-06,Standing Desk,Shipping,2,Negative,The Standing Desk arrived later than expected. Please improve shipping updates.,Shipped,Economy,Resolved,PROD-010
+FDB-00076,ORD-00306,CUST-0024,2025-08-31,Webcam,Value,5,Positive,Great experience with this order. The Webcam met our expectations.,Delivered,Standard,In Progress,PROD-012
+FDB-00077,ORD-00256,CUST-0054,2025-09-17,Standing Desk,Value,5,Positive,Great experience with this order. The Standing Desk met our expectations.,Delivered,Economy,Not Required,PROD-010
+FDB-00078,ORD-00070,CUST-0011,2025-10-08,Mouse,Shipping,2,Negative,The Mouse arrived later than expected. Please improve shipping updates.,Delivered,Express,Open,PROD-007
+FDB-00079,ORD-00490,CUST-0019,2025-12-02,Laptop,General Experience,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Economy,Not Required,PROD-005
+FDB-00080,ORD-00254,CUST-0047,2025-07-16,Webcam,Product Quality,4,Positive,The Webcam works exactly as expected. Ordering was straightforward.,Delivered,Standard,Not Required,PROD-012
+FDB-00081,ORD-00155,CUST-0051,2025-06-09,Desk Chair,Return,3,Neutral,I returned the Desk Chair because it did not meet my needs. The return process could be easier.,Delivered,Same Day,In Progress,PROD-001
+FDB-00082,ORD-00083,CUST-0030,2025-11-02,Standing Desk,Instructions,3,Neutral,"The Standing Desk meets the basic requirements, with a few minor issues.",Shipped,Standard,In Progress,PROD-010
+FDB-00083,ORD-00303,CUST-0014,2025-08-21,USB-C Hub,Product Quality,5,Positive,Very happy with the USB-C Hub; good value for the price.,Delivered,Standard,Not Required,PROD-011
+FDB-00084,ORD-00173,CUST-0050,2025-12-27,USB-C Hub,Product Quality,4,Positive,Great experience with this order. The USB-C Hub met our expectations.,Delivered,Standard,Not Required,PROD-011
+FDB-00085,ORD-00323,CUST-0040,2025-07-21,Standing Desk,Order Cancellation,3,Neutral,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Economy,In Progress,PROD-010
+FDB-00086,ORD-00091,CUST-0013,2025-09-15,Desk Chair,Customer Support,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Returned,Standard,In Progress,PROD-001
+FDB-00087,ORD-00181,CUST-0004,2025-11-06,Mouse,Product Satisfaction,4,Positive,The Mouse arrived in good condition and performs well.,Delivered,Economy,Resolved,PROD-007
+FDB-00088,ORD-00417,CUST-0037,2025-07-01,Monitor,Product Satisfaction,4,Positive,The Monitor arrived in good condition and performs well.,Delivered,Same Day,Not Required,PROD-006
+FDB-00089,ORD-00471,CUST-0024,2025-08-12,Standing Desk,Product Quality,4,Positive,Very happy with the Standing Desk; good value for the price.,Shipped,Express,Not Required,PROD-010
+FDB-00090,ORD-00397,CUST-0037,2025-03-24,Laptop,Return,3,Neutral,I returned the Laptop because it did not meet my needs. The return process could be easier.,Delivered,Economy,Not Required,PROD-005
+FDB-00091,ORD-00387,CUST-0053,2025-11-30,Monitor,Product Quality,4,Positive,Great experience with this order. The Monitor met our expectations.,Shipped,Economy,Not Required,PROD-006
+FDB-00092,ORD-00476,CUST-0043,2025-12-29,Pen Set,General Experience,3,Neutral,"The Pen Set meets the basic requirements, with a few minor issues.",Delivered,Standard,In Progress,PROD-009
+FDB-00093,ORD-00441,CUST-0029,2025-02-02,Notebook,Product Satisfaction,4,Positive,Great experience with this order. The Notebook met our expectations.,Returned,Economy,Not Required,PROD-008
+FDB-00094,ORD-00326,CUST-0027,2025-12-18,Keyboard,Value,5,Positive,Very happy with the Keyboard; good value for the price.,Shipped,Standard,Resolved,PROD-004
+FDB-00095,ORD-00435,CUST-0057,2025-03-14,Desk Lamp,Product Satisfaction,4,Positive,The Desk Lamp works exactly as expected. Ordering was straightforward.,Delivered,Express,In Progress,PROD-002
+FDB-00096,ORD-00013,CUST-0060,2025-09-23,Pen Set,Product Satisfaction,5,Positive,The Pen Set arrived in good condition and performs well.,Shipped,Same Day,Not Required,PROD-009
+FDB-00097,ORD-00087,CUST-0032,2025-04-11,Keyboard,Customer Support,2,Negative,The product quality was disappointing for the price paid.,Delivered,Express,Resolved,PROD-004
+FDB-00098,ORD-00076,CUST-0018,2025-09-29,Standing Desk,Shipping,3,Neutral,"The Standing Desk was useful, but delivery took longer than expected.",Delivered,Express,Resolved,PROD-010
+FDB-00099,ORD-00442,CUST-0030,2025-09-11,Mouse,Shipping,1,Negative,The Mouse arrived later than expected. Please improve shipping updates.,Delivered,Standard,Not Required,PROD-007
+FDB-00100,ORD-00016,CUST-0015,2025-08-04,USB-C Hub,Product Quality,4,Positive,Very happy with the USB-C Hub; good value for the price.,Shipped,Same Day,Not Required,PROD-011
+FDB-00101,ORD-00251,CUST-0033,2025-04-10,Standing Desk,Shipping,1,Negative,"Tracking updates for the Standing Desk were unclear, and delivery communication could improve.",Delivered,Same Day,Resolved,PROD-010
+FDB-00102,ORD-00424,CUST-0036,2025-03-12,Pen Set,General Experience,3,Neutral,"The Pen Set is acceptable, but the overall experience was average.",Delivered,Economy,Resolved,PROD-009
+FDB-00103,ORD-00020,CUST-0030,2025-03-04,Mouse,Product Quality,5,Positive,The Mouse is useful and the quality feels solid.,Shipped,Express,In Progress,PROD-007
+FDB-00104,ORD-00324,CUST-0031,2025-12-17,Standing Desk,Product Quality,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Standard,Resolved,PROD-010
+FDB-00105,ORD-00334,CUST-0047,2025-01-21,Standing Desk,Instructions,3,Neutral,The order was okay overall; there is room to improve the experience.,Returned,Economy,Resolved,PROD-010
+FDB-00106,ORD-00057,CUST-0028,2025-10-06,USB-C Hub,Customer Support,2,Negative,The product quality was disappointing for the price paid.,Delivered,Standard,Not Required,PROD-011
+FDB-00107,ORD-00235,CUST-0015,2025-03-03,Desk Chair,Customer Support,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Shipped,Express,Resolved,PROD-001
+FDB-00108,ORD-00315,CUST-0002,2025-06-30,Desk Lamp,Product Quality,5,Positive,Very happy with the Desk Lamp; good value for the price.,Delivered,Standard,In Progress,PROD-002
+FDB-00109,ORD-00333,CUST-0025,2025-02-27,Keyboard,Value,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Shipped,Economy,In Progress,PROD-004
+FDB-00110,ORD-00133,CUST-0044,2025-12-25,Pen Set,Product Quality,4,Positive,The Pen Set arrived in good condition and performs well.,Delivered,Express,Resolved,PROD-009
+FDB-00111,ORD-00138,CUST-0051,2025-07-19,Mouse,General Experience,3,Neutral,"The Mouse meets the basic requirements, with a few minor issues.",Shipped,Same Day,Open,PROD-007
+FDB-00112,ORD-00426,CUST-0004,2025-06-13,Desk Chair,Product Quality,5,Positive,The Desk Chair arrived in good condition and performs well.,Delivered,Same Day,Not Required,PROD-001
+FDB-00113,ORD-00337,CUST-0042,2025-03-16,Mouse,Product Quality,4,Positive,The Mouse works exactly as expected. Ordering was straightforward.,Shipped,Express,Not Required,PROD-007
+FDB-00114,ORD-00026,CUST-0040,2025-12-05,Desk Chair,General Experience,3,Neutral,"The Desk Chair meets the basic requirements, with a few minor issues.",Delivered,Standard,In Progress,PROD-001
+FDB-00115,ORD-00400,CUST-0007,2025-04-19,Notebook,Product Satisfaction,4,Positive,Great experience with this order. The Notebook met our expectations.,Delivered,Express,In Progress,PROD-008
+FDB-00116,ORD-00478,CUST-0020,2025-09-23,Webcam,Value,5,Positive,Great experience with this order. The Webcam met our expectations.,Delivered,Standard,Resolved,PROD-012
+FDB-00117,ORD-00249,CUST-0052,2025-07-06,Monitor,Order Cancellation,2,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Same Day,Open,PROD-006
+FDB-00118,ORD-00239,CUST-0012,2025-06-28,Notebook,Product Quality,4,Positive,The Notebook arrived in good condition and performs well.,Returned,Standard,Not Required,PROD-008
+FDB-00119,ORD-00118,CUST-0037,2025-01-27,Headphones,Product Quality,3,Neutral,"The Headphones works, although setup instructions could be clearer.",Processing,Economy,Resolved,PROD-003
+FDB-00120,ORD-00043,CUST-0007,2025-05-10,Keyboard,Value,2,Negative,"The Keyboard did not meet expectations, and support has not fully resolved the issue.",Delivered,Same Day,Resolved,PROD-004
+FDB-00121,ORD-00238,CUST-0060,2026-01-08,Monitor,Shipping,1,Negative,"Tracking updates for the Monitor were unclear, and delivery communication could improve.",Shipped,Express,Not Required,PROD-006
+FDB-00122,ORD-00177,CUST-0018,2025-12-27,USB-C Hub,Shipping,1,Negative,"The USB-C Hub was useful, but delivery took longer than expected.",Delivered,Same Day,In Progress,PROD-011
+FDB-00123,ORD-00322,CUST-0015,2025-12-26,Laptop,Instructions,3,Neutral,"The Laptop is acceptable, but the overall experience was average.",Shipped,Express,Resolved,PROD-005
+FDB-00124,ORD-00154,CUST-0055,2025-09-03,Keyboard,Product Satisfaction,4,Positive,The Keyboard works exactly as expected. Ordering was straightforward.,Delivered,Same Day,Not Required,PROD-004
+FDB-00125,ORD-00469,CUST-0026,2025-08-01,Keyboard,Customer Support,2,Negative,"The Keyboard did not meet expectations, and support has not fully resolved the issue.",Delivered,Same Day,In Progress,PROD-004
+FDB-00126,ORD-00229,CUST-0021,2025-12-02,Pen Set,Shipping,1,Negative,The Pen Set arrived later than expected. Please improve shipping updates.,Processing,Standard,Resolved,PROD-009
+FDB-00127,ORD-00427,CUST-0002,2025-06-29,Desk Chair,Product Satisfaction,4,Positive,The Desk Chair is useful and the quality feels solid.,Delivered,Economy,Not Required,PROD-001
+FDB-00128,ORD-00205,CUST-0035,2025-05-12,Mouse,Instructions,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Same Day,In Progress,PROD-007
+FDB-00129,ORD-00127,CUST-0050,2025-09-28,Notebook,Product Quality,3,Neutral,"The Notebook works, although setup instructions could be clearer.",Delivered,Same Day,Open,PROD-008
+FDB-00130,ORD-00370,CUST-0023,2025-09-25,Monitor,Shipping,1,Negative,The Monitor arrived later than expected. Please improve shipping updates.,Delivered,Standard,Not Required,PROD-006
+FDB-00131,ORD-00032,CUST-0027,2025-04-26,USB-C Hub,Return,2,Negative,The USB-C Hub was returned. I would like clearer updates about the return status.,Delivered,Economy,Resolved,PROD-011
+FDB-00132,ORD-00114,CUST-0010,2025-06-13,Desk Lamp,Value,5,Positive,Great experience with this order. The Desk Lamp met our expectations.,Returned,Express,Not Required,PROD-002
+FDB-00133,ORD-00278,CUST-0018,2025-10-03,Mouse,Value,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Same Day,Open,PROD-007
+FDB-00134,ORD-00204,CUST-0027,2025-05-01,Desk Chair,Product Quality,1,Negative,"The Desk Chair did not meet expectations, and support has not fully resolved the issue.",Delivered,Same Day,Open,PROD-001
+FDB-00135,ORD-00141,CUST-0019,2025-09-18,Pen Set,Customer Support,2,Negative,"The Pen Set did not meet expectations, and support has not fully resolved the issue.",Delivered,Same Day,In Progress,PROD-009
+FDB-00136,ORD-00058,CUST-0025,2025-02-15,Desk Chair,Value,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Express,Not Required,PROD-001
+FDB-00137,ORD-00193,CUST-0030,2025-04-20,Desk Lamp,General Experience,3,Neutral,Product quality is fine. Communication about the order could be better.,Shipped,Standard,Not Required,PROD-002
+FDB-00138,ORD-00025,CUST-0046,2025-08-16,USB-C Hub,Value,1,Negative,The product quality was disappointing for the price paid.,Shipped,Economy,In Progress,PROD-011
+FDB-00139,ORD-00018,CUST-0051,2025-04-30,Notebook,Value,5,Positive,The Notebook arrived in good condition and performs well.,Delivered,Standard,Not Required,PROD-008
+FDB-00140,ORD-00343,CUST-0053,2025-12-02,Mouse,Product Quality,2,Negative,The product quality was disappointing for the price paid.,Shipped,Economy,In Progress,PROD-007
+FDB-00141,ORD-00067,CUST-0037,2025-07-20,Webcam,Return,3,Neutral,I returned the Webcam because it did not meet my needs. The return process could be easier.,Shipped,Same Day,Resolved,PROD-012
+FDB-00142,ORD-00210,CUST-0037,2025-10-29,Pen Set,Value,5,Positive,The Pen Set is useful and the quality feels solid.,Delivered,Standard,Not Required,PROD-009
+FDB-00143,ORD-00483,CUST-0049,2025-10-01,Desk Lamp,Product Satisfaction,4,Positive,The Desk Lamp is useful and the quality feels solid.,Delivered,Same Day,Not Required,PROD-002
+FDB-00144,ORD-00095,CUST-0053,2025-10-13,Monitor,Shipping,2,Negative,The Monitor arrived later than expected. Please improve shipping updates.,Returned,Express,Resolved,PROD-006
+FDB-00145,ORD-00350,CUST-0055,2025-10-25,Pen Set,Product Satisfaction,4,Positive,The Pen Set arrived in good condition and performs well.,Shipped,Express,Not Required,PROD-009
+FDB-00146,ORD-00411,CUST-0026,2025-07-05,Mouse,Value,4,Positive,Very happy with the Mouse; good value for the price.,Shipped,Standard,Not Required,PROD-007
+FDB-00147,ORD-00024,CUST-0057,2025-02-14,Keyboard,Product Quality,5,Positive,The Keyboard works exactly as expected. Ordering was straightforward.,Delivered,Standard,In Progress,PROD-004
+FDB-00148,ORD-00312,CUST-0034,2025-05-30,Notebook,General Experience,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Economy,In Progress,PROD-008
+FDB-00149,ORD-00263,CUST-0039,2025-03-23,Mouse,Value,4,Positive,Great experience with this order. The Mouse met our expectations.,Delivered,Economy,Not Required,PROD-007
+FDB-00150,ORD-00432,CUST-0057,2026-01-07,Desk Lamp,Product Quality,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Standard,Open,PROD-002
+FDB-00151,ORD-00006,CUST-0044,2025-12-03,Standing Desk,Customer Support,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Express,In Progress,PROD-010
+FDB-00152,ORD-00117,CUST-0025,2025-05-24,Desk Chair,Value,5,Positive,The Desk Chair arrived in good condition and performs well.,Delivered,Economy,Not Required,PROD-001
+FDB-00153,ORD-00046,CUST-0035,2025-05-25,Webcam,Product Satisfaction,4,Positive,Very happy with the Webcam; good value for the price.,Delivered,Express,In Progress,PROD-012
+FDB-00154,ORD-00017,CUST-0022,2025-01-15,Monitor,Product Satisfaction,5,Positive,Great experience with this order. The Monitor met our expectations.,Delivered,Economy,Not Required,PROD-006
+FDB-00155,ORD-00466,CUST-0053,2025-10-26,Headphones,Product Quality,3,Neutral,"The Headphones meets the basic requirements, with a few minor issues.",Shipped,Economy,Resolved,PROD-003
+FDB-00156,ORD-00359,CUST-0049,2025-11-21,Standing Desk,Return,3,Neutral,The Standing Desk was returned. I would like clearer updates about the return status.,Delivered,Express,Resolved,PROD-010
+FDB-00157,ORD-00004,CUST-0060,2025-07-07,Pen Set,Product Satisfaction,4,Positive,Very happy with the Pen Set; good value for the price.,Delivered,Economy,Not Required,PROD-009
+FDB-00158,ORD-00454,CUST-0009,2025-12-08,Standing Desk,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Economy,Not Required,PROD-010
+FDB-00159,ORD-00272,CUST-0050,2025-10-03,Standing Desk,Value,5,Positive,The Standing Desk works exactly as expected. Ordering was straightforward.,Delivered,Express,Resolved,PROD-010
+FDB-00160,ORD-00061,CUST-0048,2025-05-07,Desk Chair,Product Satisfaction,5,Positive,The Desk Chair is useful and the quality feels solid.,Shipped,Economy,Not Required,PROD-001
+FDB-00161,ORD-00111,CUST-0018,2025-09-11,Mouse,Instructions,3,Neutral,"The Mouse works, although setup instructions could be clearer.",Delivered,Standard,Resolved,PROD-007
+FDB-00162,ORD-00453,CUST-0050,2025-02-14,USB-C Hub,General Experience,3,Neutral,"The USB-C Hub is acceptable, but the overall experience was average.",Returned,Express,In Progress,PROD-011
+FDB-00163,ORD-00440,CUST-0045,2025-02-12,Keyboard,Product Satisfaction,4,Positive,The Keyboard arrived in good condition and performs well.,Delivered,Standard,Not Required,PROD-004
+FDB-00164,ORD-00030,CUST-0029,2025-02-05,Laptop,Shipping,3,Neutral,"Tracking updates for the Laptop were unclear, and delivery communication could improve.",Delivered,Standard,In Progress,PROD-005
+FDB-00165,ORD-00448,CUST-0049,2025-05-15,Keyboard,Shipping,1,Negative,"The Keyboard was useful, but delivery took longer than expected.",Delivered,Same Day,In Progress,PROD-004
+FDB-00166,ORD-00447,CUST-0045,2025-11-01,Monitor,Value,4,Positive,Very happy with the Monitor; good value for the price.,Delivered,Standard,Not Required,PROD-006
+FDB-00167,ORD-00027,CUST-0054,2025-03-12,Standing Desk,Instructions,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Same Day,Resolved,PROD-010
+FDB-00168,ORD-00008,CUST-0021,2025-06-18,Headphones,Shipping,2,Negative,The Headphones arrived later than expected. Please improve shipping updates.,Delivered,Same Day,Open,PROD-003
+FDB-00169,ORD-00457,CUST-0020,2025-12-31,Laptop,Product Satisfaction,4,Positive,Great experience with this order. The Laptop met our expectations.,Delivered,Same Day,Resolved,PROD-005
+FDB-00170,ORD-00109,CUST-0036,2025-02-24,Desk Lamp,General Experience,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Express,Resolved,PROD-002
+FDB-00171,ORD-00038,CUST-0033,2025-12-17,Standing Desk,Shipping,3,Neutral,"Tracking updates for the Standing Desk were unclear, and delivery communication could improve.",Delivered,Same Day,Open,PROD-010
+FDB-00172,ORD-00158,CUST-0012,2025-12-29,Notebook,Product Quality,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Economy,Resolved,PROD-008
+FDB-00173,ORD-00470,CUST-0036,2025-03-18,Keyboard,Product Quality,5,Positive,Very happy with the Keyboard; good value for the price.,Processing,Standard,In Progress,PROD-004
+FDB-00174,ORD-00119,CUST-0006,2025-06-27,Keyboard,General Experience,3,Neutral,"The Keyboard works, although setup instructions could be clearer.",Delivered,Economy,In Progress,PROD-004
+FDB-00175,ORD-00115,CUST-0008,2025-12-08,Headphones,Product Satisfaction,4,Positive,The Headphones is useful and the quality feels solid.,Shipped,Express,Not Required,PROD-003
+FDB-00176,ORD-00176,CUST-0030,2025-10-18,Standing Desk,Shipping,2,Negative,"Tracking updates for the Standing Desk were unclear, and delivery communication could improve.",Returned,Economy,Resolved,PROD-010
+FDB-00177,ORD-00262,CUST-0008,2025-11-17,USB-C Hub,Shipping,3,Neutral,"Tracking updates for the USB-C Hub were unclear, and delivery communication could improve.",Delivered,Same Day,In Progress,PROD-011
+FDB-00178,ORD-00182,CUST-0057,2025-03-20,Laptop,Product Satisfaction,5,Positive,The Laptop arrived in good condition and performs well.,Delivered,Same Day,Resolved,PROD-005
+FDB-00179,ORD-00145,CUST-0051,2025-03-24,Monitor,Product Quality,5,Positive,The Monitor is useful and the quality feels solid.,Delivered,Express,Not Required,PROD-006
+FDB-00180,ORD-00372,CUST-0025,2025-12-06,Pen Set,Product Quality,5,Positive,The Pen Set arrived in good condition and performs well.,Delivered,Same Day,In Progress,PROD-009
+FDB-00181,ORD-00382,CUST-0036,2025-10-26,Laptop,Value,5,Positive,The Laptop works exactly as expected. Ordering was straightforward.,Processing,Same Day,In Progress,PROD-005
+FDB-00182,ORD-00282,CUST-0044,2025-04-21,Webcam,Shipping,3,Neutral,"Tracking updates for the Webcam were unclear, and delivery communication could improve.",Delivered,Standard,Resolved,PROD-012
+FDB-00183,ORD-00365,CUST-0051,2025-12-25,Desk Chair,Instructions,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Economy,In Progress,PROD-001
+FDB-00184,ORD-00219,CUST-0026,2025-06-13,Laptop,Shipping,1,Negative,"Tracking updates for the Laptop were unclear, and delivery communication could improve.",Delivered,Economy,Resolved,PROD-005
+FDB-00185,ORD-00449,CUST-0051,2026-01-01,Notebook,Shipping,3,Neutral,"The Notebook was useful, but delivery took longer than expected.",Delivered,Economy,In Progress,PROD-008
+FDB-00186,ORD-00142,CUST-0034,2025-08-14,Keyboard,General Experience,3,Neutral,"The Keyboard meets the basic requirements, with a few minor issues.",Delivered,Standard,In Progress,PROD-004
+FDB-00187,ORD-00368,CUST-0046,2025-10-20,Desk Chair,Shipping,2,Negative,The Desk Chair arrived later than expected. Please improve shipping updates.,Delivered,Economy,Not Required,PROD-001
+FDB-00188,ORD-00068,CUST-0005,2025-04-25,USB-C Hub,Customer Support,1,Negative,The product quality was disappointing for the price paid.,Processing,Express,Open,PROD-011
+FDB-00189,ORD-00212,CUST-0053,2025-10-07,USB-C Hub,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Express,Resolved,PROD-011
+FDB-00190,ORD-00169,CUST-0008,2025-09-27,Webcam,Order Cancellation,3,Neutral,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Economy,Open,PROD-012
+FDB-00191,ORD-00497,CUST-0057,2025-12-08,Webcam,Product Quality,4,Positive,Great experience with this order. The Webcam met our expectations.,Processing,Standard,Not Required,PROD-012
+FDB-00192,ORD-00378,CUST-0060,2025-09-19,Monitor,Product Quality,3,Neutral,"The Monitor is acceptable, but the overall experience was average.",Delivered,Express,Resolved,PROD-006
+FDB-00193,ORD-00361,CUST-0042,2025-11-20,Desk Lamp,Product Quality,1,Negative,I am unhappy with this purchase and would like help resolving the problem.,Processing,Express,Open,PROD-002
+FDB-00194,ORD-00194,CUST-0001,2025-10-17,Webcam,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Express,Open,PROD-012
+FDB-00195,ORD-00248,CUST-0028,2025-07-16,Notebook,Instructions,3,Neutral,"The Notebook works, although setup instructions could be clearer.",Delivered,Same Day,Resolved,PROD-008
+FDB-00196,ORD-00110,CUST-0023,2025-12-20,Headphones,Value,4,Positive,Very happy with the Headphones; good value for the price.,Delivered,Economy,Not Required,PROD-003
+FDB-00197,ORD-00250,CUST-0052,2025-11-12,USB-C Hub,Product Quality,3,Neutral,"The USB-C Hub works, although setup instructions could be clearer.",Delivered,Express,Open,PROD-011
+FDB-00198,ORD-00146,CUST-0050,2025-10-12,Webcam,Value,4,Positive,Great experience with this order. The Webcam met our expectations.,Delivered,Express,Not Required,PROD-012
+FDB-00199,ORD-00093,CUST-0011,2025-03-22,Notebook,Value,4,Positive,The Notebook is useful and the quality feels solid.,Delivered,Express,Not Required,PROD-008
+FDB-00200,ORD-00153,CUST-0045,2025-03-03,Desk Chair,Instructions,3,Neutral,"The Desk Chair meets the basic requirements, with a few minor issues.",Delivered,Same Day,In Progress,PROD-001
+FDB-00201,ORD-00221,CUST-0026,2025-08-14,Mouse,Shipping,2,Negative,"Tracking updates for the Mouse were unclear, and delivery communication could improve.",Processing,Express,In Progress,PROD-007
+FDB-00202,ORD-00232,CUST-0046,2025-07-31,USB-C Hub,Return,2,Negative,The USB-C Hub was returned. I would like clearer updates about the return status.,Delivered,Economy,Not Required,PROD-011
+FDB-00203,ORD-00084,CUST-0044,2025-05-25,Standing Desk,Product Quality,5,Positive,The Standing Desk is useful and the quality feels solid.,Shipped,Same Day,In Progress,PROD-010
+FDB-00204,ORD-00458,CUST-0012,2025-05-06,Notebook,Value,5,Positive,Great experience with this order. The Notebook met our expectations.,Delivered,Express,Open,PROD-008
+FDB-00205,ORD-00166,CUST-0006,2025-04-03,Webcam,Shipping,3,Neutral,"The Webcam was useful, but delivery took longer than expected.",Shipped,Express,Resolved,PROD-012
+FDB-00206,ORD-00164,CUST-0030,2025-06-30,Headphones,Product Quality,3,Neutral,"The Headphones meets the basic requirements, with a few minor issues.",Delivered,Standard,In Progress,PROD-003
+FDB-00207,ORD-00200,CUST-0029,2025-08-23,Pen Set,Customer Support,2,Negative,"The Pen Set did not meet expectations, and support has not fully resolved the issue.",Delivered,Economy,Open,PROD-009
+FDB-00208,ORD-00230,CUST-0051,2025-11-23,Webcam,Product Quality,5,Positive,The Webcam works exactly as expected. Ordering was straightforward.,Delivered,Same Day,Not Required,PROD-012
+FDB-00209,ORD-00075,CUST-0001,2025-06-24,Desk Chair,Shipping,1,Negative,The Desk Chair arrived later than expected. Please improve shipping updates.,Delivered,Standard,Resolved,PROD-001
+FDB-00210,ORD-00418,CUST-0016,2025-04-22,Mouse,Shipping,1,Negative,The Mouse arrived later than expected. Please improve shipping updates.,Delivered,Standard,Resolved,PROD-007
+FDB-00211,ORD-00407,CUST-0014,2025-12-14,Monitor,Product Satisfaction,5,Positive,The Monitor works exactly as expected. Ordering was straightforward.,Shipped,Economy,Resolved,PROD-006
+FDB-00212,ORD-00376,CUST-0059,2025-02-11,Laptop,Value,4,Positive,Very happy with the Laptop; good value for the price.,Delivered,Economy,In Progress,PROD-005
+FDB-00213,ORD-00120,CUST-0011,2025-10-06,Monitor,Value,5,Positive,The Monitor works exactly as expected. Ordering was straightforward.,Delivered,Express,Resolved,PROD-006
+FDB-00214,ORD-00321,CUST-0014,2025-04-08,Pen Set,Shipping,2,Negative,The Pen Set arrived later than expected. Please improve shipping updates.,Delivered,Same Day,Resolved,PROD-009
+FDB-00215,ORD-00389,CUST-0052,2025-09-25,Notebook,General Experience,3,Neutral,"The Notebook is acceptable, but the overall experience was average.",Delivered,Express,In Progress,PROD-008
+FDB-00216,ORD-00355,CUST-0003,2025-07-07,USB-C Hub,Product Quality,5,Positive,The USB-C Hub arrived in good condition and performs well.,Delivered,Express,Resolved,PROD-011
+FDB-00217,ORD-00356,CUST-0051,2025-11-11,Mouse,Shipping,1,Negative,The Mouse arrived later than expected. Please improve shipping updates.,Delivered,Same Day,In Progress,PROD-007
+FDB-00218,ORD-00416,CUST-0017,2025-05-07,Standing Desk,Shipping,3,Neutral,"The Standing Desk was useful, but delivery took longer than expected.",Delivered,Same Day,Not Required,PROD-010
+FDB-00219,ORD-00358,CUST-0038,2025-08-16,Pen Set,Shipping,2,Negative,"Tracking updates for the Pen Set were unclear, and delivery communication could improve.",Processing,Express,Open,PROD-009
+FDB-00220,ORD-00481,CUST-0009,2025-11-03,Keyboard,Value,4,Positive,The Keyboard works exactly as expected. Ordering was straightforward.,Delivered,Standard,Not Required,PROD-004
+FDB-00221,ORD-00468,CUST-0039,2025-05-02,Keyboard,Instructions,3,Neutral,"The Keyboard meets the basic requirements, with a few minor issues.",Processing,Economy,Resolved,PROD-004
+FDB-00222,ORD-00385,CUST-0024,2025-06-15,Mouse,Product Quality,4,Positive,The Mouse arrived in good condition and performs well.,Shipped,Economy,Not Required,PROD-007
+FDB-00223,ORD-00276,CUST-0032,2025-06-06,Pen Set,General Experience,3,Neutral,Product quality is fine. Communication about the order could be better.,Delivered,Standard,Not Required,PROD-009
+FDB-00224,ORD-00037,CUST-0035,2025-11-05,Mouse,Product Quality,5,Positive,Very happy with the Mouse; good value for the price.,Delivered,Standard,Resolved,PROD-007
+FDB-00225,ORD-00197,CUST-0026,2025-12-12,Notebook,Product Quality,5,Positive,Great experience with this order. The Notebook met our expectations.,Processing,Same Day,Not Required,PROD-008
+FDB-00226,ORD-00140,CUST-0008,2025-10-20,Desk Lamp,Value,5,Positive,The Desk Lamp works exactly as expected. Ordering was straightforward.,Delivered,Same Day,Not Required,PROD-002
+FDB-00227,ORD-00399,CUST-0005,2025-10-03,Desk Chair,Shipping,1,Negative,"Tracking updates for the Desk Chair were unclear, and delivery communication could improve.",Shipped,Same Day,Resolved,PROD-001
+FDB-00228,ORD-00246,CUST-0051,2025-09-10,Headphones,Product Satisfaction,5,Positive,The Headphones arrived in good condition and performs well.,Delivered,Express,Not Required,PROD-003
+FDB-00229,ORD-00287,CUST-0012,2025-08-05,Webcam,Value,5,Positive,The Webcam arrived in good condition and performs well.,Delivered,Standard,Not Required,PROD-012
+FDB-00230,ORD-00288,CUST-0004,2025-11-16,Pen Set,Shipping,2,Negative,The Pen Set arrived later than expected. Please improve shipping updates.,Delivered,Same Day,In Progress,PROD-009
+FDB-00231,ORD-00060,CUST-0029,2025-07-30,Webcam,Product Satisfaction,4,Positive,The Webcam arrived in good condition and performs well.,Delivered,Standard,Resolved,PROD-012
+FDB-00232,ORD-00112,CUST-0022,2025-12-17,Desk Lamp,Value,4,Positive,The Desk Lamp arrived in good condition and performs well.,Delivered,Economy,Not Required,PROD-002
+FDB-00233,ORD-00090,CUST-0018,2025-11-01,Desk Chair,Product Quality,4,Positive,The Desk Chair arrived in good condition and performs well.,Delivered,Express,Not Required,PROD-001
+FDB-00234,ORD-00266,CUST-0005,2025-12-29,Keyboard,Shipping,3,Neutral,"The Keyboard was useful, but delivery took longer than expected.",Delivered,Express,Open,PROD-004
+FDB-00235,ORD-00007,CUST-0015,2025-05-16,Keyboard,Value,5,Positive,The Keyboard is useful and the quality feels solid.,Returned,Standard,In Progress,PROD-004
+FDB-00236,ORD-00363,CUST-0011,2025-01-21,Headphones,Customer Support,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Shipped,Economy,Not Required,PROD-003
+FDB-00237,ORD-00347,CUST-0044,2025-12-19,Webcam,Value,1,Negative,The product quality was disappointing for the price paid.,Processing,Economy,In Progress,PROD-012
+FDB-00238,ORD-00046,CUST-0035,2025-06-04,Webcam,Product Satisfaction,5,Positive,The Webcam works exactly as expected. Ordering was straightforward.,Delivered,Express,In Progress,PROD-012
+FDB-00239,ORD-00159,CUST-0034,2025-10-03,Keyboard,Shipping,3,Neutral,The Keyboard arrived later than expected. Please improve shipping updates.,Delivered,Economy,In Progress,PROD-004
+FDB-00240,ORD-00151,CUST-0039,2025-02-10,Mouse,Product Quality,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Processing,Standard,In Progress,PROD-007
+FDB-00241,ORD-00178,CUST-0060,2026-01-10,Mouse,Product Quality,5,Positive,The Mouse works exactly as expected. Ordering was straightforward.,Shipped,Standard,Resolved,PROD-007
+FDB-00242,ORD-00396,CUST-0038,2025-11-11,Keyboard,General Experience,3,Neutral,"The Keyboard works, although setup instructions could be clearer.",Delivered,Same Day,Not Required,PROD-004
+FDB-00243,ORD-00185,CUST-0009,2025-03-01,Standing Desk,Value,4,Positive,The Standing Desk arrived in good condition and performs well.,Delivered,Economy,Not Required,PROD-010
+FDB-00244,ORD-00285,CUST-0059,2025-08-05,Standing Desk,General Experience,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Same Day,Not Required,PROD-010
+FDB-00245,ORD-00011,CUST-0050,2025-10-25,Laptop,Product Quality,5,Positive,The Laptop arrived in good condition and performs well.,Delivered,Express,Not Required,PROD-005
+FDB-00246,ORD-00383,CUST-0016,2025-04-15,Desk Lamp,Product Quality,2,Negative,"The Desk Lamp did not meet expectations, and support has not fully resolved the issue.",Delivered,Economy,In Progress,PROD-002
+FDB-00247,ORD-00104,CUST-0030,2025-04-26,Pen Set,Value,5,Positive,Very happy with the Pen Set; good value for the price.,Delivered,Express,In Progress,PROD-009
+FDB-00248,ORD-00082,CUST-0042,2025-09-11,Desk Lamp,Product Satisfaction,4,Positive,The Desk Lamp is useful and the quality feels solid.,Delivered,Express,Not Required,PROD-002
+FDB-00249,ORD-00039,CUST-0012,2025-10-17,Keyboard,Product Satisfaction,5,Positive,Very happy with the Keyboard; good value for the price.,Delivered,Economy,Resolved,PROD-004
+FDB-00250,ORD-00443,CUST-0058,2025-03-19,Laptop,Return,2,Negative,I returned the Laptop because it did not meet my needs. The return process could be easier.,Delivered,Express,Open,PROD-005
+FDB-00251,ORD-00168,CUST-0036,2025-05-25,Desk Lamp,Shipping,2,Negative,"The Desk Lamp was useful, but delivery took longer than expected.",Shipped,Economy,In Progress,PROD-002
+FDB-00252,ORD-00473,CUST-0040,2025-07-18,Keyboard,Product Quality,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Express,Open,PROD-004
+FDB-00253,ORD-00298,CUST-0048,2025-06-25,Pen Set,Shipping,1,Negative,The Pen Set arrived later than expected. Please improve shipping updates.,Shipped,Express,Resolved,PROD-009
+FDB-00254,ORD-00295,CUST-0043,2025-03-26,Monitor,Product Quality,3,Neutral,"The Monitor meets the basic requirements, with a few minor issues.",Delivered,Economy,Open,PROD-006
+FDB-00255,ORD-00199,CUST-0002,2025-03-04,Laptop,Product Satisfaction,5,Positive,Very happy with the Laptop; good value for the price.,Delivered,Economy,In Progress,PROD-005
+FDB-00256,ORD-00299,CUST-0014,2025-02-23,Desk Lamp,Product Quality,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Same Day,Resolved,PROD-002
+FDB-00257,ORD-00419,CUST-0003,2025-02-13,USB-C Hub,General Experience,3,Neutral,The order was okay overall; there is room to improve the experience.,Delivered,Express,In Progress,PROD-011
+FDB-00258,ORD-00147,CUST-0032,2025-08-26,Headphones,Product Quality,2,Negative,"The Headphones did not meet expectations, and support has not fully resolved the issue.",Delivered,Express,In Progress,PROD-003
+FDB-00259,ORD-00395,CUST-0052,2025-04-09,Keyboard,Value,1,Negative,The product quality was disappointing for the price paid.,Shipped,Economy,Not Required,PROD-004
+FDB-00260,ORD-00148,CUST-0007,2025-08-10,Monitor,Product Quality,2,Negative,"The Monitor did not meet expectations, and support has not fully resolved the issue.",Delivered,Express,Resolved,PROD-006
+FDB-00261,ORD-00308,CUST-0035,2025-08-06,Pen Set,Product Quality,2,Negative,"The Pen Set did not meet expectations, and support has not fully resolved the issue.",Delivered,Economy,In Progress,PROD-009
+FDB-00262,ORD-00377,CUST-0040,2025-08-12,Standing Desk,Customer Support,1,Negative,"The Standing Desk did not meet expectations, and support has not fully resolved the issue.",Delivered,Express,Open,PROD-010
+FDB-00263,ORD-00124,CUST-0055,2025-09-03,Laptop,Product Quality,3,Neutral,"The Laptop works, although setup instructions could be clearer.",Delivered,Same Day,Not Required,PROD-005
+FDB-00264,ORD-00371,CUST-0049,2025-06-02,Mouse,Value,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Same Day,In Progress,PROD-007
+FDB-00265,ORD-00097,CUST-0009,2025-02-07,Laptop,Order Cancellation,1,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Same Day,Open,PROD-005
+FDB-00266,ORD-00144,CUST-0050,2025-06-22,Keyboard,Shipping,3,Neutral,The Keyboard arrived later than expected. Please improve shipping updates.,Processing,Economy,In Progress,PROD-004
+FDB-00267,ORD-00240,CUST-0049,2025-04-25,Webcam,Product Quality,4,Positive,Very happy with the Webcam; good value for the price.,Delivered,Same Day,Not Required,PROD-012
+FDB-00268,ORD-00275,CUST-0021,2025-02-05,Headphones,Product Satisfaction,4,Positive,The Headphones is useful and the quality feels solid.,Delivered,Standard,In Progress,PROD-003
+FDB-00269,ORD-00098,CUST-0018,2025-03-25,Headphones,Shipping,2,Negative,"The Headphones was useful, but delivery took longer than expected.",Delivered,Same Day,In Progress,PROD-003
+FDB-00270,ORD-00352,CUST-0026,2025-09-15,Webcam,Value,4,Positive,The Webcam is useful and the quality feels solid.,Shipped,Express,Resolved,PROD-012
+FDB-00271,ORD-00123,CUST-0018,2025-11-19,Standing Desk,Value,4,Positive,Great experience with this order. The Standing Desk met our expectations.,Processing,Standard,Resolved,PROD-010
+FDB-00272,ORD-00184,CUST-0056,2025-04-07,Laptop,Customer Support,1,Negative,The product quality was disappointing for the price paid.,Shipped,Same Day,Resolved,PROD-005
+FDB-00273,ORD-00203,CUST-0010,2025-07-02,USB-C Hub,Product Quality,3,Neutral,The order was okay overall; there is room to improve the experience.,Processing,Standard,Resolved,PROD-011
+FDB-00274,ORD-00247,CUST-0033,2025-06-08,Keyboard,Shipping,2,Negative,The Keyboard arrived later than expected. Please improve shipping updates.,Returned,Express,Open,PROD-004
+FDB-00275,ORD-00451,CUST-0059,2025-04-14,Notebook,Shipping,3,Neutral,"Tracking updates for the Notebook were unclear, and delivery communication could improve.",Delivered,Express,Resolved,PROD-008
+FDB-00276,ORD-00300,CUST-0032,2025-01-02,Laptop,Product Quality,2,Negative,"The Laptop did not meet expectations, and support has not fully resolved the issue.",Shipped,Express,Open,PROD-005
+FDB-00277,ORD-00353,CUST-0030,2025-11-20,Pen Set,Customer Support,2,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Economy,In Progress,PROD-009
+FDB-00278,ORD-00302,CUST-0058,2025-03-08,Monitor,Value,4,Positive,The Monitor arrived in good condition and performs well.,Delivered,Express,Not Required,PROD-006
+FDB-00279,ORD-00398,CUST-0027,2025-05-04,Webcam,Shipping,3,Neutral,"Tracking updates for the Webcam were unclear, and delivery communication could improve.",Shipped,Standard,Open,PROD-012
+FDB-00280,ORD-00317,CUST-0034,2025-02-18,Mouse,Value,2,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Economy,Open,PROD-007
+FDB-00281,ORD-00126,CUST-0042,2025-09-01,Monitor,Return,2,Negative,The Monitor was returned. I would like clearer updates about the return status.,Processing,Express,Open,PROD-006
+FDB-00282,ORD-00409,CUST-0046,2025-02-03,Desk Lamp,Value,2,Negative,"The Desk Lamp did not meet expectations, and support has not fully resolved the issue.",Delivered,Standard,In Progress,PROD-002
+FDB-00283,ORD-00224,CUST-0029,2025-06-13,Webcam,Shipping,2,Negative,"Tracking updates for the Webcam were unclear, and delivery communication could improve.",Shipped,Express,Not Required,PROD-012
+FDB-00284,ORD-00421,CUST-0008,2025-10-10,Laptop,Value,5,Positive,Very happy with the Laptop; good value for the price.,Delivered,Standard,In Progress,PROD-005
+FDB-00285,ORD-00220,CUST-0045,2025-07-24,USB-C Hub,Instructions,3,Neutral,The order was okay overall; there is room to improve the experience.,Shipped,Same Day,Resolved,PROD-011
+FDB-00286,ORD-00130,CUST-0034,2025-07-01,Keyboard,Product Quality,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Express,Open,PROD-004
+FDB-00287,ORD-00423,CUST-0024,2025-11-18,Standing Desk,Product Quality,4,Positive,The Standing Desk is useful and the quality feels solid.,Delivered,Standard,In Progress,PROD-010
+FDB-00288,ORD-00291,CUST-0059,2025-05-06,Keyboard,Shipping,1,Negative,"The Keyboard was useful, but delivery took longer than expected.",Delivered,Standard,Resolved,PROD-004
+FDB-00289,ORD-00330,CUST-0057,2025-09-04,Laptop,Product Quality,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Delivered,Standard,Resolved,PROD-005
+FDB-00290,ORD-00379,CUST-0041,2025-10-10,Mouse,Return,2,Negative,I returned the Mouse because it did not meet my needs. The return process could be easier.,Delivered,Standard,In Progress,PROD-007
+FDB-00291,ORD-00456,CUST-0006,2025-02-09,Laptop,Product Satisfaction,4,Positive,The Laptop works exactly as expected. Ordering was straightforward.,Delivered,Standard,Not Required,PROD-005
+FDB-00292,ORD-00357,CUST-0033,2025-12-03,USB-C Hub,Value,4,Positive,The USB-C Hub arrived in good condition and performs well.,Delivered,Standard,Resolved,PROD-011
+FDB-00293,ORD-00404,CUST-0052,2025-01-18,Pen Set,Customer Support,2,Negative,There was a problem with the Pen Set. I would appreciate a follow-up.,Delivered,Economy,Open,PROD-009
+FDB-00294,ORD-00369,CUST-0005,2025-11-29,Pen Set,Return,1,Negative,The Pen Set was returned. I would like clearer updates about the return status.,Delivered,Same Day,Open,PROD-009
+FDB-00295,ORD-00342,CUST-0010,2025-01-15,Laptop,Order Cancellation,2,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Express,Resolved,PROD-005
+FDB-00296,ORD-00113,CUST-0014,2025-07-30,Monitor,Customer Support,2,Negative,"The Monitor did not meet expectations, and support has not fully resolved the issue.",Delivered,Economy,In Progress,PROD-006
+FDB-00297,ORD-00180,CUST-0060,2025-08-17,USB-C Hub,Value,1,Negative,The product quality was disappointing for the price paid.,Shipped,Standard,In Progress,PROD-011
+FDB-00298,ORD-00482,CUST-0050,2025-06-18,Desk Lamp,Product Quality,2,Negative,"The Desk Lamp did not meet expectations, and support has not fully resolved the issue.",Delivered,Economy,Open,PROD-002
+FDB-00299,ORD-00341,CUST-0036,2025-05-17,Notebook,Value,1,Negative,I am unhappy with this purchase and would like help resolving the problem.,Delivered,Same Day,Resolved,PROD-008
+FDB-00300,ORD-00332,CUST-0018,2025-09-19,Standing Desk,Order Cancellation,2,Negative,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Standard,In Progress,PROD-010
+FDB-00301,ORD-00485,CUST-0055,2025-05-10,USB-C Hub,Product Satisfaction,4,Positive,Very happy with the USB-C Hub; good value for the price.,Delivered,Express,Resolved,PROD-011
+FDB-00302,ORD-00362,CUST-0048,2025-07-03,Notebook,Shipping,2,Negative,The Notebook arrived later than expected. Please improve shipping updates.,Processing,Express,In Progress,PROD-008
+FDB-00303,ORD-00234,CUST-0042,2025-05-22,USB-C Hub,Value,1,Negative,There was a problem with the USB-C Hub. I would appreciate a follow-up.,Shipped,Same Day,In Progress,PROD-011
+FDB-00304,ORD-00313,CUST-0007,2025-11-01,Pen Set,Shipping,1,Negative,The Pen Set arrived later than expected. Please improve shipping updates.,Shipped,Express,Open,PROD-009
+FDB-00305,ORD-00165,CUST-0058,2025-02-04,Desk Chair,Shipping,3,Neutral,"The Desk Chair was useful, but delivery took longer than expected.",Delivered,Same Day,Open,PROD-001
+FDB-00306,ORD-00137,CUST-0026,2025-02-27,Mouse,Return,2,Negative,I returned the Mouse because it did not meet my needs. The return process could be easier.,Delivered,Same Day,Open,PROD-007
+FDB-00307,ORD-00198,CUST-0015,2025-01-21,Desk Chair,Value,5,Positive,The Desk Chair is useful and the quality feels solid.,Delivered,Economy,In Progress,PROD-001
+FDB-00308,ORD-00259,CUST-0001,2025-01-11,Mouse,General Experience,3,Neutral,"The Mouse works, although setup instructions could be clearer.",Delivered,Standard,Open,PROD-007
+FDB-00309,ORD-00233,CUST-0035,2025-09-04,Pen Set,General Experience,3,Neutral,"The Pen Set is acceptable, but the overall experience was average.",Delivered,Express,Resolved,PROD-009
+FDB-00310,ORD-00116,CUST-0004,2025-11-04,Webcam,Shipping,3,Neutral,The Webcam arrived later than expected. Please improve shipping updates.,Shipped,Same Day,Open,PROD-012
+FDB-00311,ORD-00121,,2025-04-19,Standing Desk,Value,4,Positive,Great experience with this order. The Standing Desk met our expectations.,Delivered,Same Day,Resolved,PROD-010
+FDB-00312,ORD-00410,CUST-0033,2025-04-16,USB-C Hub,Customer Support,1,Negative,"The order experience was frustrating, and the issue took too long to address.",Shipped,Economy,Open,PROD-011
+FDB-00313,ORD-00225,CUST-0001,2025-02-23,Standing Desk,Order Cancellation,3,Neutral,"The order was cancelled, and I would have appreciated a clearer explanation and notification.",Cancelled,Same Day,Not Required,PROD-010
+FDB-00314,ORD-00405,CUST-0018,2025-12-06,Pen Set,Product Satisfaction,4,Positive,The Pen Set arrived in good condition and performs well.,Delivered,Express,Resolved,PROD-009
+FDB-00315,ORD-00339,CUST-0020,2025-10-10,Desk Chair,Customer Support,1,Negative,The product quality was disappointing for the price paid.,Delivered,Same Day,In Progress,PROD-001
+FDB-00316,ORD-00128,CUST-0059,2025-02-19,Notebook,Product Satisfaction,5,Positive,Very happy with the Notebook; good value for the price.,Delivered,Standard,Not Required,PROD-008
+FDB-00317,ORD-00286,CUST-0030,2025-08-19,Keyboard,Value,5,Positive,Very happy with the Keyboard; good value for the price.,Delivered,Express,Resolved,PROD-004
+FDB-00318,ORD-00479,CUST-0018,2025-12-20,Standing Desk,Return,2,Negative,The Standing Desk was returned. I would like clearer updates about the return status.,Delivered,Standard,Open,PROD-010
+FDB-00319,ORD-00108,CUST-0060,2025-02-25,Standing Desk,Product Satisfaction,5,Positive,Great experience with this order. The Standing Desk met our expectations.,Delivered,Express,Not Required,PROD-010
+FDB-00320,ORD-00488,CUST-0037,2025-11-16,Desk Lamp,Product Quality,2,Negative,"The Desk Lamp did not meet expectations, and support has not fully resolved the issue.",Shipped,Express,Not Required,PROD-002

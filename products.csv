@@ -1,0 +1,13 @@
+product_id,product_name,category,average_selling_price,average_unit_cost,total_units_sold,sales_line_count
+PROD-001,Desk Chair,Furniture,243.48,153.5,149,42
+PROD-002,Desk Lamp,Furniture,48.38,31.32,142,40
+PROD-003,Headphones,Electronics,145.69,95.62,95,30
+PROD-004,Keyboard,Accessories,75.62,46.93,147,50
+PROD-005,Laptop,Electronics,1230.1,798.16,147,36
+PROD-006,Monitor,Electronics,319.57,200.73,132,36
+PROD-007,Mouse,Accessories,35.32,22.16,174,48
+PROD-008,Notebook,Office Supplies,6.54,4.21,136,40
+PROD-009,Pen Set,Office Supplies,12.03,7.64,102,40
+PROD-010,Standing Desk,Furniture,527.49,331.45,169,52
+PROD-011,USB-C Hub,Accessories,55.48,35.33,136,43
+PROD-012,Webcam,Electronics,91.73,57.11,134,46
